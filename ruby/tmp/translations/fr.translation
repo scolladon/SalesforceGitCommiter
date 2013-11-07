@@ -1,0 +1,4031 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Translations xmlns="http://soap.sforce.com/2006/04/metadata">
+    <customLabels>
+        <label><!-- ACTIONS --></label>
+        <name>ACTIONS</name>
+    </customLabels>
+    <customLabels>
+        <label>Mes actions</label>
+        <name>ACTIONS_TITLE</name>
+    </customLabels>
+    <customLabels>
+        <label>Action</label>
+        <name>ACTION_COLUMN_TITLE</name>
+    </customLabels>
+    <customLabels>
+        <label>Ajouter Garantie</label>
+        <name>ADD_COVERAGE</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Profil name of the system&apos;s administrator --></label>
+        <name>ADMIN_PROFILE_NAME</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- variable used to pass the test method --></label>
+        <name>ADMIN_USER</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- the name of the role of the administrator --></label>
+        <name>ADMIN_USER_ROLE</name>
+    </customLabels>
+    <customLabels>
+        <label>Au moins une pathologies déclarées n&apos;est pas dans la liste</label>
+        <name>ADVANCED_NOT_IN_THE_LIST</name>
+    </customLabels>
+    <customLabels>
+        <label>Tous</label>
+        <name>ALL_OPTION</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Record type: &quot;Applicant&quot; --></label>
+        <name>APPLICANT_ACCOUNT_RECORD_TYPE</name>
+    </customLabels>
+    <customLabels>
+        <label>Informations complémentaires</label>
+        <name>APPLICANT_ADDITIONAL_INFO</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- APPLICANT_ALERT_POPUP --></label>
+        <name>APPLICANT_ALERT_POPUP</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- APPLICANT ALERT POPUP LINK --></label>
+        <name>APPLICANT_ALERT_POPUP_LINK</name>
+    </customLabels>
+    <customLabels>
+        <label>Modification de l&apos;adhérent</label>
+        <name>APPLICANT_EDIT</name>
+    </customLabels>
+    <customLabels>
+        <label>Informations principales</label>
+        <name>APPLICANT_MAIN_INFO</name>
+    </customLabels>
+    <customLabels>
+        <label>Modifier l&apos;adhérent</label>
+        <name>APPLICANT_PAGEBLOCK_TITLE_LABEL</name>
+    </customLabels>
+    <customLabels>
+        <label>Modifier l&apos;adhérent</label>
+        <name>APPLICANT_SECTION_SUBTITLE_LABEL</name>
+    </customLabels>
+    <customLabels>
+        <label>Nouvel adhérent</label>
+        <name>APPLICANT_SECTION_TITLE_LABEL</name>
+    </customLabels>
+    <customLabels>
+        <label>l&apos;Espace Adhérent</label>
+        <name>APPLICANT_SPACE_FOOTER_DEFAULT_TEXT</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- APPLICATION_ACCEPTED_MESSAGE --></label>
+        <name>APPLICATION_ACCEPTED_MESSAGE</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- APPLICATION_ACCEPTED_WITH_SPECIFIC_CONDITIONS_MESSAGE --></label>
+        <name>APPLICATION_ACCEPTED_WITH_SPECIFIC_CONDITIONS_MESSAGE</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Developer name of the Approval Request Template email --></label>
+        <name>APPLICATION_APPROVAL_REQUEST_TEMPLATE_DEVNAME</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- APPLICATION_BLOCK_BUTTON_MESSAGE --></label>
+        <name>APPLICATION_BLOCK_BUTTON_MESSAGE</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- APPLICATION_COBORROWER_ERROR --></label>
+        <name>APPLICATION_COBORROWER_ERROR</name>
+    </customLabels>
+    <customLabels>
+        <label>Détail de l&apos;Adhésion</label>
+        <name>APPLICATION_DETAIL</name>
+    </customLabels>
+    <customLabels>
+        <label>Désolé, les documents nécessaires et la sélection médicale doivent être reçus. Veuillez vérifier ces documents avant de soumettre.</label>
+        <name>APPLICATION_DOCUMENTS_AND_MEDICAL_CHECK</name>
+    </customLabels>
+    <customLabels>
+        <label>Désolé, les documents nécessaires doivent être reçus. Veuillez vérifier ces documents avant de soumettre.</label>
+        <name>APPLICATION_DOCUMENTS_CHECK</name>
+    </customLabels>
+    <customLabels>
+        <label>Modification de l&apos;adhésion</label>
+        <name>APPLICATION_EDIT</name>
+    </customLabels>
+    <customLabels>
+        <label>Niveaux d’Engagements Financiers</label>
+        <name>APPLICATION_ENGAGING_LVL_TITLE</name>
+    </customLabels>
+    <customLabels>
+        <label>Date d&apos;annulation : Vous devez saisir une valeur</label>
+        <name>APPLICATION_ERROR_CANCELLATION_DATE_NOT_FILLED</name>
+    </customLabels>
+    <customLabels>
+        <label>Date de validation : Vous devez saisir une valeur</label>
+        <name>APPLICATION_ERROR_INCEPTION_DATE_NOT_FILLED</name>
+    </customLabels>
+    <customLabels>
+        <label>Adhésion</label>
+        <name>APPLICATION_FORM</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- APPLICATION_HISTORY --></label>
+        <name>APPLICATION_HISTORY</name>
+    </customLabels>
+    <customLabels>
+        <label>Cette demande requiert une analyse approfondie du médecin conseil de l&apos;assureur</label>
+        <name>APPLICATION_IN_ANLYSIS_MESSAGE</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- APPLICATION_MS_MODE_ONLINE_MS --></label>
+        <name>APPLICATION_MS_MODE_ONLINE_MS</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- APPLICATION_NUMBER --></label>
+        <name>APPLICATION_NUMBER</name>
+    </customLabels>
+    <customLabels>
+        <label>Lié au contrat</label>
+        <name>APPLICATION_PRINT_DOC_LINKED_TO_CONTRACT_HEADER_TITLE</name>
+    </customLabels>
+    <customLabels>
+        <label>Nom du document</label>
+        <name>APPLICATION_PRINT_DOC_NAME_HEADER_TITLE</name>
+    </customLabels>
+    <customLabels>
+        <label>Type</label>
+        <name>APPLICATION_PRINT_DOC_TYPE_HEADER_TITLE</name>
+    </customLabels>
+    <customLabels>
+        <label>Liste des documents</label>
+        <name>APPLICATION_PRINT_SUB_TITLE</name>
+    </customLabels>
+    <customLabels>
+        <label>Edition :</label>
+        <name>APPLICATION_PRINT_TITLE</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- APPLICATION_QUESTIONNAIRE_STATUS_MESSAGE --></label>
+        <name>APPLICATION_QUESTIONNAIRE_STATUS_MESSAGE</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- APPLICATION_REFUSED_MESSAGE --></label>
+        <name>APPLICATION_REFUSED_MESSAGE</name>
+    </customLabels>
+    <customLabels>
+        <label>Toutes les réponses à &quot;non&quot;</label>
+        <name>APPLICATION_SIMPLE_MEDICAL_ANSWER_ALL_NO</name>
+    </customLabels>
+    <customLabels>
+        <label>Au moins une des réponses à &quot;oui&quot;</label>
+        <name>APPLICATION_SIMPLE_MEDICAL_ANSWER_AT_LEAST_ONE_YES</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TECHNICAL Accepted value on application status picklist --></label>
+        <name>APPLICATION_STATUS_ACCEPTED</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Technical field APPLICATION_STATUS_ACCEPTED_WITH_SPECIFIC_CONDITIONS --></label>
+        <name>APPLICATION_STATUS_ACCEPTED_WITH_SPECIFIC_CONDITIONS</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- APPLICATION_STATUS_ANALYSIS --></label>
+        <name>APPLICATION_STATUS_ANALYSIS</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TECNICAL Cancelled / Applicant value on application status picklist --></label>
+        <name>APPLICATION_STATUS_CANCELLED_APPLICANT</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TECHNICAL Declined value on application status picklist --></label>
+        <name>APPLICATION_STATUS_DECLINED</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TECHNICAL APPLICATION_STATUS_INCOMPLETE --></label>
+        <name>APPLICATION_STATUS_INCOMPLETE</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TECHNICAL In analysis value on application status picklist --></label>
+        <name>APPLICATION_STATUS_IN_ANALYSIS</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TECHNICAL Refused value on application status picklist --></label>
+        <name>APPLICATION_STATUS_REFUSED</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TECHNICAL Validated / Applicant value on application status picklist --></label>
+        <name>APPLICATION_STATUS_VALIDATED_APPLICANT</name>
+    </customLabels>
+    <customLabels>
+        <label>Une nouvelle adhésion a été soumise à votre approbation.</label>
+        <name>APPLICATION_TASK_DESCRIPTION</name>
+    </customLabels>
+    <customLabels>
+        <label>Adhésion à analyser</label>
+        <name>APPLICATION_TASK_RECORDTYPE</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- APPLICATION_TRANSLATION_PENDING_ADDITIONAL_INFO --></label>
+        <name>APPLICATION_TRANSLATION_PENDING_ADDITIONAL_INFO</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- APPLICATION_TRANSLATION_STATUS_ACCEPTED --></label>
+        <name>APPLICATION_TRANSLATION_STATUS_ACCEPTED</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- APPLICATION_TRANSLATION_STATUS_ACCEPTED_WITH_SPECIFIC_CONDITIONS --></label>
+        <name>APPLICATION_TRANSLATION_STATUS_ACCEPTED_WITH_SPECIFIC_CONDITIONS</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- APPLICATION_TRANSLATION_STATUS_CANCEL --></label>
+        <name>APPLICATION_TRANSLATION_STATUS_CANCEL</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- APPLICATION_TRANSLATION_STATUS_DECLINED --></label>
+        <name>APPLICATION_TRANSLATION_STATUS_DECLINED</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- APPLICATION_TRANSLATION_STATUS_INCOMPLETE --></label>
+        <name>APPLICATION_TRANSLATION_STATUS_INCOMPLETE</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- APPLICATION_TRANSLATION_STATUS_INFORCED --></label>
+        <name>APPLICATION_TRANSLATION_STATUS_INFORCED</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- APPLICATION_TRANSLATION_STATUS_IN_ANALYSIS --></label>
+        <name>APPLICATION_TRANSLATION_STATUS_IN_ANALYSIS</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- APPLICATION_TRANSLATION_STATUS_PENDING_SAA --></label>
+        <name>APPLICATION_TRANSLATION_STATUS_PENDING_SAA</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- APPLICATION_TRANSLATION_STATUS_REJECTED --></label>
+        <name>APPLICATION_TRANSLATION_STATUS_REJECTED</name>
+    </customLabels>
+    <customLabels>
+        <label>Êtes-vous sûr de vouloir annuler l\&apos;adhésion ?</label>
+        <name>APPLICATION_WARNING_STATUS_CANCELLED</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- ASPACE_TOOLTIP_CONTENT_DRC --></label>
+        <name>ASPACE_TOOLTIP_CONTENT_DRC</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- ASPACE_TOOLTIP_TITLE_DRC --></label>
+        <name>ASPACE_TOOLTIP_TITLE_DRC</name>
+    </customLabels>
+    <customLabels>
+        <label>Fichier</label>
+        <name>ATTACHMENT_TITLE</name>
+    </customLabels>
+    <customLabels>
+        <label>Joindre un fichier</label>
+        <name>ATTACH_FILE</name>
+    </customLabels>
+    <customLabels>
+        <label>Autorisation requise</label>
+        <name>AUTHORIZATION_REQUIRED</name>
+    </customLabels>
+    <customLabels>
+        <label>Informations Emprunteur</label>
+        <name>BORROWER_INFORMATION</name>
+    </customLabels>
+    <customLabels>
+        <label>Le BPA doit être signé</label>
+        <name>BPA_MSG_ERROR_NOT_SIGNED</name>
+    </customLabels>
+    <customLabels>
+        <label>Ajouter prêt</label>
+        <name>BUTTON_ADD_LOAN</name>
+    </customLabels>
+    <customLabels>
+        <label>Assigner quotations selectionnées</label>
+        <name>BUTTON_ASSIGN_QUOTATION</name>
+    </customLabels>
+    <customLabels>
+        <label>Dupliquer</label>
+        <name>BUTTON_CLONE</name>
+    </customLabels>
+    <customLabels>
+        <label>Fermer</label>
+        <name>BUTTON_CLOSE</name>
+    </customLabels>
+    <customLabels>
+        <label>Valider</label>
+        <name>BUTTON_CONTACT_ME</name>
+    </customLabels>
+    <customLabels>
+        <label>Continuer</label>
+        <name>BUTTON_CONTINUE</name>
+    </customLabels>
+    <customLabels>
+        <label>Génération doc...</label>
+        <name>BUTTON_GENERATING_DOC</name>
+    </customLabels>
+    <customLabels>
+        <label>Modifier</label>
+        <name>BUTTON_MODIFY</name>
+    </customLabels>
+    <customLabels>
+        <label>Nouveau</label>
+        <name>BUTTON_NEW</name>
+    </customLabels>
+    <customLabels>
+        <label>Nouvelle adhésion</label>
+        <name>BUTTON_NEW_APPLICATION</name>
+    </customLabels>
+    <customLabels>
+        <label>Ajouter nouvelle garantie</label>
+        <name>BUTTON_NEW_COVERAGE</name>
+    </customLabels>
+    <customLabels>
+        <label>Nouveau Prêt</label>
+        <name>BUTTON_NEW_LOAN</name>
+    </customLabels>
+    <customLabels>
+        <label>Questionnaire en ligne</label>
+        <name>BUTTON_ONLINE_QUESTIONNAIRE</name>
+    </customLabels>
+    <customLabels>
+        <label>Prévisualiser</label>
+        <name>BUTTON_PREVIEW</name>
+    </customLabels>
+    <customLabels>
+        <label>Imprimer</label>
+        <name>BUTTON_PRINT_APP</name>
+    </customLabels>
+    <customLabels>
+        <label>Editer l&apos;ACD</label>
+        <name>BUTTON_PRINT_CQ</name>
+    </customLabels>
+    <customLabels>
+        <label>Editer l&apos;ACD</label>
+        <name>BUTTON_PRINT_IQ</name>
+    </customLabels>
+    <customLabels>
+        <label>Supprimer</label>
+        <name>BUTTON_QUESTIONNAIRE_PURGE</name>
+    </customLabels>
+    <customLabels>
+        <label>Rafraîchissement statut</label>
+        <name>BUTTON_QUESTIONNAIRE_STATUS</name>
+    </customLabels>
+    <customLabels>
+        <label>Rapport de quotation</label>
+        <name>BUTTON_QUOTATION_REPORT</name>
+    </customLabels>
+    <customLabels>
+        <label>A supprimer</label>
+        <name>BUTTON_REMOVE</name>
+    </customLabels>
+    <customLabels>
+        <label>Retour</label>
+        <name>BUTTON_RETURN</name>
+    </customLabels>
+    <customLabels>
+        <label>Lancer le rapport</label>
+        <name>BUTTON_RUN_REPORT</name>
+    </customLabels>
+    <customLabels>
+        <label>Signature électronique</label>
+        <name>BUTTON_SIGN_ELECTRONICALLY</name>
+    </customLabels>
+    <customLabels>
+        <label>Validation signature manuelle</label>
+        <name>BUTTON_SIGN_MANUALLY</name>
+    </customLabels>
+    <customLabels>
+        <label>Soumettre</label>
+        <name>BUTTON_SUBMIT</name>
+    </customLabels>
+    <customLabels>
+        <label>Annuler</label>
+        <name>CANCEL_BUTTON</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Captcha base url DON&apos;T TRANSLATE --></label>
+        <name>CAPTCHA_BASE_URL</name>
+    </customLabels>
+    <customLabels>
+        <label>La valeur entrée dans le captcha est incorrecte.</label>
+        <name>CAPTCHA_ERROR_NOT_MATCH</name>
+    </customLabels>
+    <customLabels>
+        <label>Merci de remplir le captcha</label>
+        <name>CAPTCHA_ERROR_PLEASE_FILL</name>
+    </customLabels>
+    <customLabels>
+        <label>Merci de faire glisser le captcha au bout à droite</label>
+        <name>CAPTCHA_MESSAGE_ACTION</name>
+    </customLabels>
+    <customLabels>
+        <label>Captcha validé</label>
+        <name>CAPTCHA_MESSAGE_PASSED</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Captcha private key DON&apos;T TRANSLATE --></label>
+        <name>CAPTCHA_PRIVATE_KEY</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Captcha public key DON&apos;T TRANSLATE --></label>
+        <name>CAPTCHA_PUBLIC_KEY</name>
+    </customLabels>
+    <customLabels>
+        <label>Nouveau mot de passe</label>
+        <name>CHANGE_PASSWORD_NEW_PASSWORD</name>
+    </customLabels>
+    <customLabels>
+        <label>Ancien mot de passe</label>
+        <name>CHANGE_PASSWORD_OLD_PASSWORD</name>
+    </customLabels>
+    <customLabels>
+        <label>Votre mot de passe doit contenir au moins 8 caractères. Votre mot de passe doit combiner des lettres, des chiffres et au moins un des caractères spéciaux suivants : !#$%-_=+&lt;&gt;</label>
+        <name>CHANGE_PASSWORD_REQUIRED</name>
+    </customLabels>
+    <customLabels>
+        <label>Changez votre mot de passe. Entrez votre mot de passe.</label>
+        <name>CHANGE_PASSWORD_TITLE</name>
+    </customLabels>
+    <customLabels>
+        <label>Si vous avez oublié votre mot de passe, cliquer sur Vous avez oublié votre mot de passe?</label>
+        <name>CLICK_FORGET_PASSWORD</name>
+    </customLabels>
+    <customLabels>
+        <label>Voulez vous confirmer la signature manuelle ?</label>
+        <name>CONFIRM_MANUAL_SIGN</name>
+    </customLabels>
+    <customLabels>
+        <label>Êtes-vous sûr ?</label>
+        <name>CONFIRM_MSG_ARE_YOU_SURE</name>
+    </customLabels>
+    <customLabels>
+        <label>mois</label>
+        <name>CONGA_MONTHS_LABEL</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Id of the conga query for Additionnal Information --></label>
+        <name>CONGA_QUERY_ID_FOR_ADDITIONNAL_INFO</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- ID of Conga query used to retrieve information of an applicant --></label>
+        <name>CONGA_QUERY_ID_FOR_APPLICANT</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- ID of Conga query used to retrieve information of a contract --></label>
+        <name>CONGA_QUERY_ID_FOR_CONTRACT</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Conga query Id for coverages --></label>
+        <name>CONGA_QUERY_ID_FOR_COVERAGES</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- ID of Conga query used to retrieve information of a loan --></label>
+        <name>CONGA_QUERY_ID_FOR_LOAN</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Id of the conga query for Quotation --></label>
+        <name>CONGA_QUERY_ID_FOR_QUOTATION</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Conga query id for the translated information in the quotation (Tech) --></label>
+        <name>CONGA_QUERY_ID_FOR_QUOTATION_TRANSLATED</name>
+    </customLabels>
+    <customLabels>
+        <label>année(s)</label>
+        <name>CONGA_YEARS_LABEL</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- The profile name for consultation --></label>
+        <name>CONSULTATION_PROFILE_NAME</name>
+    </customLabels>
+    <customLabels>
+        <label>Information de liaison</label>
+        <name>CONTACT_INFORMATION</name>
+    </customLabels>
+    <customLabels>
+        <label>Liste des documents du contrat</label>
+        <name>CONTRACT_DOCUMENT_LIST</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Used in dynamic template to calculate Policy Expiry  Date --></label>
+        <name>CONTRACT_RENEWAL_PERIODICITY_IN_YEAR</name>
+    </customLabels>
+    <customLabels>
+        <label>Sélectionnez un contrat</label>
+        <name>CONTRACT_SELECTION</name>
+    </customLabels>
+    <customLabels>
+        <label>Convertir</label>
+        <name>CONVERT_BUTTON</name>
+    </customLabels>
+    <customLabels>
+        <label>Créé par</label>
+        <name>CREATED_BY</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- CREATION_DATE --></label>
+        <name>CREATION_DATE</name>
+    </customLabels>
+    <customLabels>
+        <label>Date de création</label>
+        <name>CREATION_DATE_LABEL</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Creditor quotation only export --></label>
+        <name>CREDITOR_QUOTATION_ONLY_EXPORT_PROFILE</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Creditor quotation only --></label>
+        <name>CREDITOR_QUOTATION_ONLY_PROFILE</name>
+    </customLabels>
+    <customLabels>
+        <label>Authentification client sécurisée</label>
+        <name>CUSTOMER_LOGIN_TITLE</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- traduction du format des date --></label>
+        <name>DATE_FORMAT</name>
+    </customLabels>
+    <customLabels>
+        <label>Date</label>
+        <name>DATE_LABEL</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- DAYS --></label>
+        <name>DAYS</name>
+    </customLabels>
+    <customLabels>
+        <label>Décisions</label>
+        <name>DECISIONS</name>
+    </customLabels>
+    <customLabels>
+        <label>Décision prise</label>
+        <name>DECISION_MADE</name>
+    </customLabels>
+    <customLabels>
+        <label>Décision non prise</label>
+        <name>DECISION_NOT_MADE</name>
+    </customLabels>
+    <customLabels>
+        <label>Décliner</label>
+        <name>DECLINE_BUTTON</name>
+    </customLabels>
+    <customLabels>
+        <label>Pourquoi déclinez-vous cette simulation ?</label>
+        <name>DECLINE_QUESTION</name>
+    </customLabels>
+    <customLabels>
+        <label>Liste des pathologies déléguées</label>
+        <name>DELEGATED_PATHOLOGIE</name>
+    </customLabels>
+    <customLabels>
+        <label>Supprimer</label>
+        <name>DELETE_BUTTON</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- DELETE_MESSAGE --></label>
+        <name>DELETE_MESSAGE</name>
+    </customLabels>
+    <customLabels>
+        <label>Etes vous sûr de vouloir supprimer ce questionnaire ?</label>
+        <name>DELETE_OMQ_CONFIRMATION</name>
+    </customLabels>
+    <customLabels>
+        <label>Documents</label>
+        <name>DELIVERY_QUESTION</name>
+    </customLabels>
+    <customLabels>
+        <label>Distributeur</label>
+        <name>DISTRIBUTOR_ACCOUNT_NAME</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Record type: &quot;Distributor&quot; --></label>
+        <name>DISTRIBUTOR_ACCOUNT_RECORD_TYPE</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- DMS_WS_ERROR_MESSAGE --></label>
+        <name>DMS_WS_ERROR_MESSAGE</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- DOCUMENT --></label>
+        <name>DOCUMENT</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- DOCUMENTS_HISTORY --></label>
+        <name>DOCUMENTS_HISTORY</name>
+    </customLabels>
+    <customLabels>
+        <label>Génération de document en cours... Merci de patienter quelques secondes...</label>
+        <name>DOCUMENT_GENERATION_IN_PROGRESS</name>
+    </customLabels>
+    <customLabels>
+        <label>Liste des documents</label>
+        <name>DOCUMENT_LIST</name>
+    </customLabels>
+    <customLabels>
+        <label>La durée a été redéfinie selon la configuration du contrat</label>
+        <name>DURATION_RESET_WARNING</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Id of the detailed questions conga query --></label>
+        <name>ECH_CONGA_QUERY_DETAILED_QUESTIONS</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- ECRET ATTESTATION LABEL --></label>
+        <name>ECRET_ATTESTATION_LABEL</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- ECRET ATTESTATION TITLE --></label>
+        <name>ECRET_ATTESTATION_TITLE</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- ECRET BUTTON CHECK --></label>
+        <name>ECRET_BUTTON_CHECK</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- ECRET_CHECKLATER_LABEL --></label>
+        <name>ECRET_CHECKLATER_LABEL</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- ECRET_CHECKLATER_TEXT --></label>
+        <name>ECRET_CHECKLATER_TEXT</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- ECRET CHECK LABEL --></label>
+        <name>ECRET_CHECK_LABEL</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- ECRET CHECK TITLE --></label>
+        <name>ECRET_CHECK_TITLE</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- ECRET ELIG TITLE --></label>
+        <name>ECRET_ELIG_TITLE</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- ECRET_EXPLANATION_TEXT --></label>
+        <name>ECRET_EXPLANATION_TEXT</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- ECRET_EXPLANATION_TITLE --></label>
+        <name>ECRET_EXPLANATION_TITLE</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- ECRET INCOME LABEL --></label>
+        <name>ECRET_INCOME_LABEL</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- ECRET_INFORMATION_TITLE --></label>
+        <name>ECRET_INFORMATION_TITLE</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- ECRET LINK LABEL CHECK --></label>
+        <name>ECRET_LINK_LABEL_CHECK</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- ECRET_MSG_ERROR_HONNEUR --></label>
+        <name>ECRET_MSG_ERROR_HONNEUR</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- ECRET_MSG_ERROR_INCOME --></label>
+        <name>ECRET_MSG_ERROR_INCOME</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- ECRET_MSG_ERROR_TAXSHARES --></label>
+        <name>ECRET_MSG_ERROR_TAXSHARES</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- ECRET_MSG_ERROR_TEG --></label>
+        <name>ECRET_MSG_ERROR_TEG</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- ECRET MSG ERROR UNCHECKED --></label>
+        <name>ECRET_MSG_ERROR_UNCHECKED</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- ECRET MSG FAILED --></label>
+        <name>ECRET_MSG_FAILED</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- ECRET MSG NOCHECK CONFIRMATION --></label>
+        <name>ECRET_MSG_NOCHECK_CONFIRMATION</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- ECRET MSG SUCCESS --></label>
+        <name>ECRET_MSG_SUCCESS</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- ECRET MSG SUCCESS PTZ --></label>
+        <name>ECRET_MSG_SUCCESS_PTZ</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- ECRET_NOCHECK_LABEL --></label>
+        <name>ECRET_NOCHECK_LABEL</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- ECRET POS TASK COMMENT --></label>
+        <name>ECRET_POS_TASK_COMMENT</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- ECRET POS TASK TITLE --></label>
+        <name>ECRET_POS_TASK_TITLE</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- ECRET SUBFORM TITLE --></label>
+        <name>ECRET_SUBFORM_TITLE</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- ECRET TAXSHARES LABEL --></label>
+        <name>ECRET_TAXSHARES_LABEL</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- ECRET TEG LABEL --></label>
+        <name>ECRET_TEG_LABEL</name>
+    </customLabels>
+    <customLabels>
+        <label>Modifier</label>
+        <name>EDIT_BUTTON</name>
+    </customLabels>
+    <customLabels>
+        <label>Une tâche a été assignée à l&apos;adhérent, afin qu&apos;il prenne connaissance de la lettre d&apos;acceptation.</label>
+        <name>EMAIL_TEMPLATE_ACCEPTANCE_LETTER_DESC</name>
+    </customLabels>
+    <customLabels>
+        <label>votre lettre d&apos;acceptation</label>
+        <name>EMAIL_TEMPLATE_ACCEPTANCE_LETTER_DOC</name>
+    </customLabels>
+    <customLabels>
+        <label>Veuillez prendre connaissance de votre lettre d&apos;acceptation</label>
+        <name>EMAIL_TEMPLATE_ACCEPTANCE_LETTER_SUBJECT</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- EMAIL_TEMPLATE_ADDRESS --></label>
+        <name>EMAIL_TEMPLATE_ADDRESS</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Address docteur --></label>
+        <name>EMAIL_TEMPLATE_ADDRESS_DR</name>
+    </customLabels>
+    <customLabels>
+        <label>La tâche est assigné à l&apos;adhérent pour signer son BA</label>
+        <name>EMAIL_TEMPLATE_BA_DESC</name>
+    </customLabels>
+    <customLabels>
+        <label>votre formulaire d&apos;adhésion</label>
+        <name>EMAIL_TEMPLATE_BA_DOC</name>
+    </customLabels>
+    <customLabels>
+        <label>Veuillez signer votre formulaire d&apos;adhésion</label>
+        <name>EMAIL_TEMPLATE_BA_SUBJECT</name>
+    </customLabels>
+    <customLabels>
+        <label>compléter</label>
+        <name>EMAIL_TEMPLATE_COMPLETE_ACTION</name>
+    </customLabels>
+    <customLabels>
+        <label>Votre demande de renseignements complémentaires (Epilepsie)</label>
+        <name>EMAIL_TEMPLATE_DRC0_DOC</name>
+    </customLabels>
+    <customLabels>
+        <label>Votre demande de renseignements complémentaires (Sclérose)</label>
+        <name>EMAIL_TEMPLATE_DRC1_DOC</name>
+    </customLabels>
+    <customLabels>
+        <label>Une tâche a été assignée à l&apos;adhérent afin qu&apos;il prenne connaissance de sa demande de renseignements complémentaires.</label>
+        <name>EMAIL_TEMPLATE_DRC_DESC</name>
+    </customLabels>
+    <customLabels>
+        <label>votre demande de renseignements complémentaires</label>
+        <name>EMAIL_TEMPLATE_DRC_DOC</name>
+    </customLabels>
+    <customLabels>
+        <label>Demande de renseignements complémentaires</label>
+        <name>EMAIL_TEMPLATE_DRC_SUBJECT</name>
+    </customLabels>
+    <customLabels>
+        <label>Il a été demandé à l&apos;adhérent de compléter son ecrêtement</label>
+        <name>EMAIL_TEMPLATE_ECRETEMENT_DESC</name>
+    </customLabels>
+    <customLabels>
+        <label>votre formulaire d&apos;écrêtement</label>
+        <name>EMAIL_TEMPLATE_ECRETEMENT_DOC</name>
+    </customLabels>
+    <customLabels>
+        <label>L&apos;adhérant doit compléter son écrêtement</label>
+        <name>EMAIL_TEMPLATE_ECRETEMENT_SUBJECT</name>
+    </customLabels>
+    <customLabels>
+        <label>signer électroniquement</label>
+        <name>EMAIL_TEMPLATE_E_SIGN_ACTION</name>
+    </customLabels>
+    <customLabels>
+        <label>en suivant ce lien :</label>
+        <name>EMAIL_TEMPLATE_FOLLOW_URL_ACTION</name>
+    </customLabels>
+    <customLabels>
+        <label>Vous allez recevoir un autre e-mail avec un mot de passe temporaire.&lt;br/&gt; Veuillez contacter l&apos;administrateur en cas de besoin. &lt;br/&gt;&lt;br/&gt;Bienvenue sur Web Creditor.</label>
+        <name>EMAIL_TEMPLATE_LOGIN_BODY</name>
+    </customLabels>
+    <customLabels>
+        <label>Vous recevrez un autre email contenant un mot de passe temporaire. &lt;br/&gt;Contactez, s&apos;il vous plait, votre administrateur en cas de besoin ou d&apos;assistance.&lt;br/&gt;&lt;br/&gt;Une fois encore, bienvenue sur l&apos;Espace adhérent.</label>
+        <name>EMAIL_TEMPLATE_LOGIN_BODY_APPLICANT_SPACE</name>
+    </customLabels>
+    <customLabels>
+        <label>Information d&apos;authentification</label>
+        <name>EMAIL_TEMPLATE_LOGIN_INFORMATION</name>
+    </customLabels>
+    <customLabels>
+        <label>Bienvenue sur Web Creditor!</label>
+        <name>EMAIL_TEMPLATE_LOGIN_WELCOME</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- EMAIL_TEMPLATE_MAO_DESC --></label>
+        <name>EMAIL_TEMPLATE_MAO_DESC</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- EMAIL_TEMPLATE_MAO_SUBJECT --></label>
+        <name>EMAIL_TEMPLATE_MAO_SUBJECT</name>
+    </customLabels>
+    <customLabels>
+        <label>Nous ne pouvons pas traiter votre adhésion</label>
+        <name>EMAIL_TEMPLATE_MQ_BODY_LINE_1_AFTER</name>
+    </customLabels>
+    <customLabels>
+        <label>Merci de</label>
+        <name>EMAIL_TEMPLATE_MQ_BODY_LINE_1_BEFORE</name>
+    </customLabels>
+    <customLabels>
+        <label>Sans action de votre part, nous ne pourrons pas finaliser votre adhésion</label>
+        <name>EMAIL_TEMPLATE_MQ_BODY_LINE_2</name>
+    </customLabels>
+    <customLabels>
+        <label>l&apos;expression les plus sincères</label>
+        <name>EMAIL_TEMPLATE_MQ_BODY_LINE_3_AFTER</name>
+    </customLabels>
+    <customLabels>
+        <label>Sincèrement</label>
+        <name>EMAIL_TEMPLATE_MQ_BODY_LINE_3_BEFORE</name>
+    </customLabels>
+    <customLabels>
+        <label>Vous avez fait une demande création de questionnaire médical sur DMS (Simulateur). Votre questionnaire a été créé avec succès dans DMS.&lt;br/&gt;URL:&lt;a href=URL:http://simulation.v3s1.cs7.force.com/SimulatorDMS?qID=a0UM0000002Ql3TMAS&gt;Allez sur DMS Simulateur.&lt;/a&gt;</label>
+        <name>EMAIL_TEMPLATE_MQ_CREATION_SPECIAL_BODY</name>
+    </customLabels>
+    <customLabels>
+        <label>URL du simulateur DMS</label>
+        <name>EMAIL_TEMPLATE_MQ_CREATION_SPECIAL_INFORMATION</name>
+    </customLabels>
+    <customLabels>
+        <label>La tache est assigné à l&apos;adhérent pour compléter son questionnaire médical</label>
+        <name>EMAIL_TEMPLATE_MQ_DESC</name>
+    </customLabels>
+    <customLabels>
+        <label>votre questionnaire médical</label>
+        <name>EMAIL_TEMPLATE_MQ_DOC</name>
+    </customLabels>
+    <customLabels>
+        <label>Adhérent doit compléter son questionnaire médical</label>
+        <name>EMAIL_TEMPLATE_MQ_SUBJECT</name>
+    </customLabels>
+    <customLabels>
+        <label>vous connecter à DMS :</label>
+        <name>EMAIL_TEMPLATE_MQ_URL_ACTION</name>
+    </customLabels>
+    <customLabels>
+        <label>Votre accès au Questionnaire Médical (DMS) a été crée</label>
+        <name>EMAIL_TEMPLATE_MQ_URL_SUBJECT</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- EMAIL_TEMPLATE_MR_DESC --></label>
+        <name>EMAIL_TEMPLATE_MR_DESC</name>
+    </customLabels>
+    <customLabels>
+        <label>Votre Demande d&apos;Examens Médicaux</label>
+        <name>EMAIL_TEMPLATE_MR_DOC</name>
+    </customLabels>
+    <customLabels>
+        <label>Adhérent doit compléter sa demande d&apos;examen médical</label>
+        <name>EMAIL_TEMPLATE_MR_SUBJECT</name>
+    </customLabels>
+    <customLabels>
+        <label>Une tâche a été assignée à l&apos;adhérent afin qu&apos;il prenne connaissance de sa lettre de notification.</label>
+        <name>EMAIL_TEMPLATE_NOTIFICATION_LETTER_DESC</name>
+    </customLabels>
+    <customLabels>
+        <label>votre lettre de notification</label>
+        <name>EMAIL_TEMPLATE_NOTIFICATION_LETTER_DOC</name>
+    </customLabels>
+    <customLabels>
+        <label>Une lettre de notification dans votre espace adhérant</label>
+        <name>EMAIL_TEMPLATE_NOTIFICATION_LETTER_SUBJECT</name>
+    </customLabels>
+    <customLabels>
+        <label>MOT DE PASSE</label>
+        <name>EMAIL_TEMPLATE_PASSWORD</name>
+    </customLabels>
+    <customLabels>
+        <label>Lors de votre première connexion, un nouveau mot de passe vous sera demandé. Notez que les mots de passe sont sensibles à la casse (distinction minuscules / majuscules). &lt;br/&gt; Les administrateurs de l&apos;organisation peuvent réinitialiser votre mot de passe. &lt;br/&gt; Merci de contacter votre administrateur au besoin. &lt;br/&gt;&lt;br/&gt; Bienvenue sur Web Creditor.</label>
+        <name>EMAIL_TEMPLATE_PASSWORD_BODY</name>
+    </customLabels>
+    <customLabels>
+        <label>Un nouveau mot de passe vous sera demandé à votre 1er connexion. Notez que le mot de passe est sensible à la casse.&lt;br/&gt; 
+Seul l&apos;administrateur de l&apos;organisation peut réinitialiser votre mot de passe.&lt;br/&gt; 
+Contactez, s&apos;il vous plait, votre administrateur en cas de besoin ou d&apos;assistance.&lt;br/&gt;&lt;br/&gt; Une fois encore, bienvenue sur l&apos;Espace adhérent.</label>
+        <name>EMAIL_TEMPLATE_PASSWORD_BODY_APPLICANT_SPACE</name>
+    </customLabels>
+    <customLabels>
+        <label>Information mot de passe</label>
+        <name>EMAIL_TEMPLATE_PASSWORD_INFORMATION</name>
+    </customLabels>
+    <customLabels>
+        <label>Bienvenue sur Web Creditor !</label>
+        <name>EMAIL_TEMPLATE_PASSWORD_WELCOME</name>
+    </customLabels>
+    <customLabels>
+        <label>Bienvenue sur l&apos;espace adhérent!</label>
+        <name>EMAIL_TEMPLATE_PASSWORD_WELCOME_APPLICANT_SPACE</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Partner Portal New Password --></label>
+        <name>EMAIL_TEMPLATE_PP_NEW_PASSWORD</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Customer Portal New Password --></label>
+        <name>EMAIL_TEMPLATE_PP_NEW_PASSWORD_APPLICANT_SPACE</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Partner Portal New User --></label>
+        <name>EMAIL_TEMPLATE_PP_NEW_USER</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Customer Portal New User --></label>
+        <name>EMAIL_TEMPLATE_PP_NEW_USER_APPLICANT_SPACE</name>
+    </customLabels>
+    <customLabels>
+        <label>Veuillez trouver ci-dessous vos codes d’accès à Web Creditor.&lt;br /&gt;
+&lt;br /&gt;
+En vous souhaitant, une bonne naviguation&lt;br /&gt;
+Bien Cordialement.&lt;br /&gt;
+L’équipe Web Creditor</label>
+        <name>EMAIL_TEMPLATE_RESET_PWD_BODY</name>
+    </customLabels>
+    <customLabels>
+        <label>Vos identifiants sont joints</label>
+        <name>EMAIL_TEMPLATE_RESET_PWD_OBJECT</name>
+    </customLabels>
+    <customLabels>
+        <label>Bienvenue sur Web Creditor</label>
+        <name>EMAIL_TEMPLATE_RESET_PWD_TITLE</name>
+    </customLabels>
+    <customLabels>
+        <label>Une tâche a été assignée à l&apos;adhérent afin qu&apos;il signe le Bon pour Accord.</label>
+        <name>EMAIL_TEMPLATE_SAA_DESC</name>
+    </customLabels>
+    <customLabels>
+        <label>votre bon pour accord</label>
+        <name>EMAIL_TEMPLATE_SAA_DOC</name>
+    </customLabels>
+    <customLabels>
+        <label>Veuillez signer votre bon pour accord</label>
+        <name>EMAIL_TEMPLATE_SAA_SUBJECT</name>
+    </customLabels>
+    <customLabels>
+        <label>Bienvenue sur Web Creditor</label>
+        <name>EMAIL_TEMPLATE_TITLE</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Title --></label>
+        <name>EMAIL_TEMPLATE_TITLE_APPLICANT_SPACE</name>
+    </customLabels>
+    <customLabels>
+        <label>Identifiant</label>
+        <name>EMAIL_TEMPLATE_USERNAME</name>
+    </customLabels>
+    <customLabels>
+        <label>prendre connaissance de</label>
+        <name>EMAIL_TEMPLATE_VIEW_ACTION</name>
+    </customLabels>
+    <customLabels>
+        <label>Cher(e)</label>
+        <name>EMAIL_TEMPLATE_WELCOME</name>
+    </customLabels>
+    <customLabels>
+        <label>Vos références :</label>
+        <name>EMAIL_TEMPLATE_YOUR_REFERENCES</name>
+    </customLabels>
+    <customLabels>
+        <label>Terminer</label>
+        <name>END_BUTTON</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Variable related to the end date calendar --></label>
+        <name>END_DATE_CALENDAR</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Wrong document id from Documents --></label>
+        <name>ERROR_ACCOUNT_INVALID_BANNER_DOCUMENT</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Additional Label for Field in Suffix Error Section --></label>
+        <name>ERROR_ADDITIONAL_FIELD_LABEL</name>
+    </customLabels>
+    <customLabels>
+        <label>L&apos;adhérent existe déjà</label>
+        <name>ERROR_APPLICANT_ALREADY_EXISTS</name>
+    </customLabels>
+    <customLabels>
+        <label>La date de naissance n&apos;est pas au bon format</label>
+        <name>ERROR_APPLICANT_DATE_NOT_WELL_FORMATTED</name>
+    </customLabels>
+    <customLabels>
+        <label>Veuillez sélectionner un distributeur</label>
+        <name>ERROR_APPLICANT_DISTRIBUTOR_REQUIRED</name>
+    </customLabels>
+    <customLabels>
+        <label>L&apos;email doit être unique</label>
+        <name>ERROR_APPLICANT_EMAIL_ALREADY_EXISTS</name>
+    </customLabels>
+    <customLabels>
+        <label>Vous devez avoir au moins 18 ans</label>
+        <name>ERROR_APPLICANT_NOT_ADULT</name>
+    </customLabels>
+    <customLabels>
+        <label>Le point de vente est une donnée obligatoire.</label>
+        <name>ERROR_APPLICANT_POS_REQUIRED</name>
+    </customLabels>
+    <customLabels>
+        <label>Veuillez renseigner tous les champs de sélection médical avant de soumettre l&apos;adhésion</label>
+        <name>ERROR_APPLICATION_ADVANCED_MQ_NOT_SET</name>
+    </customLabels>
+    <customLabels>
+        <label>La qualité de l&apos;adhérent n&apos;est pas renseigné</label>
+        <name>ERROR_APPLICATION_APPLICANT_QUALITY</name>
+    </customLabels>
+    <customLabels>
+        <label>Le bulletin d&apos;adhésion doit être signé électroniquement</label>
+        <name>ERROR_APPLICATION_BA_ELECTRONICALLY_NOT_SIGNED</name>
+    </customLabels>
+    <customLabels>
+        <label>Le bulletin d&apos;adhésion doit être signé (manuellement ou électroniquement)</label>
+        <name>ERROR_APPLICATION_BA_NOT_SIGNED</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Decision is not made --></label>
+        <name>ERROR_APPLICATION_DECISION_NOT_MADE</name>
+    </customLabels>
+    <customLabels>
+        <label>Les données concernant le questionnaire médical détaillé sont à renseigner.</label>
+        <name>ERROR_APPLICATION_MQADVANCED_REQUIRED</name>
+    </customLabels>
+    <customLabels>
+        <label>Les données concernant le questionnaire médical simplifié doivent être renseignées.</label>
+        <name>ERROR_APPLICATION_MQSIMPLE_REQUIRED</name>
+    </customLabels>
+    <customLabels>
+        <label>Désolé, mais au moins un prêt (:loanName) de cette adhésion est associé à un contrat qui n&apos;est pas autorisé dans ce point de vente</label>
+        <name>ERROR_APPLICATION_NOT_AUTHORIZED_CONTRACT</name>
+    </customLabels>
+    <customLabels>
+        <label>Le questionnaiore médical avancé n&apos;est plus valable pour le prêt :loanName</label>
+        <name>ERROR_APPLICATION_NOT_VALID_ADVANCED_MEDICAL_QUESTIONNAIRE_INTERVAL</name>
+    </customLabels>
+    <customLabels>
+        <label>Le questionnaiore médical simple n&apos;est plus valable pour le prêt :loanName</label>
+        <name>ERROR_APPLICATION_NOT_VALID_SIMPLE_MEDICAL_QUESTIONNAIRE_INTERVAL</name>
+    </customLabels>
+    <customLabels>
+        <label>Désolé, il n&apos;y a pas de prêt associé à l&apos;adhésion</label>
+        <name>ERROR_APPLICATION_NO_LOAN_ASSOCIATED</name>
+    </customLabels>
+    <customLabels>
+        <label>Veuillez remplir tous les champs du questionnaire médical simplifié avant de soumettre l&apos;adhésion.</label>
+        <name>ERROR_APPLICATION_SIMPLE_MQ_NOT_SET</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- ERROR_CALCULATION_ENGINE --></label>
+        <name>ERROR_CALCULATION_ENGINE</name>
+    </customLabels>
+    <customLabels>
+        <label>Désolé, le prêt (:loanName) ne peut être supprimé que si l&apos;adhésion est incomplète</label>
+        <name>ERROR_CANNOT_DELETE_LOAN</name>
+    </customLabels>
+    <customLabels>
+        <label>Désolé, la garantie souscrite (:coverageName) ne peut être supprimée que si l&apos;adhésion est incomplète</label>
+        <name>ERROR_CANNOT_DELETE_SUBSCRIBED_COVERAGE</name>
+    </customLabels>
+    <customLabels>
+        <label>Désolé, vous ne pouvez pas modifier certaines informations, l&apos;adhésion est &quot;:applicationStatus&quot;.</label>
+        <name>ERROR_CANNOT_MODIFIED_SOME_INFO</name>
+    </customLabels>
+    <customLabels>
+        <label>Cette paire Compagnie / Distributeur existe déjà</label>
+        <name>ERROR_COMPANIES_ACCOUNT_DUPLICITY_TRIGGER</name>
+    </customLabels>
+    <customLabels>
+        <label>La garantie du contrat existe déjà pour ce prêt.</label>
+        <name>ERROR_CONTRACT_COVERAGE_ALREADY_EXISTS_FOR_LOAN</name>
+    </customLabels>
+    <customLabels>
+        <label>Désolé, mais au moins une garantie (:coverageName) est associée à un tarif invalide</label>
+        <name>ERROR_COVERAGE_INVALID_RATE</name>
+    </customLabels>
+    <customLabels>
+        <label>: le format doit être (JJ/MM/AAAA)</label>
+        <name>ERROR_DATE_FORMAT</name>
+    </customLabels>
+    <customLabels>
+        <label>Le champ distributeur est une donnée obligatoire.</label>
+        <name>ERROR_DISTRIBUTOR_REQUIRED</name>
+    </customLabels>
+    <customLabels>
+        <label>Merci de remplir tous les champs du questionnaire médical déraillé avant de sauvegarder l&apos;adhésion</label>
+        <name>ERROR_EDIT_APPLICATION_ADVANCED_MQ_NOT_SET</name>
+    </customLabels>
+    <customLabels>
+        <label>Merci de remplir tous les champs du questionnaire médical (check-up) avant de sauvegarder</label>
+        <name>ERROR_EDIT_APPLICATION_CHECKUP_MQ_NOT_SET</name>
+    </customLabels>
+    <customLabels>
+        <label>Merci de remplir tous les champs du questionnaire médical simple avant de sauvegarder</label>
+        <name>ERROR_EDIT_APPLICATION_SIMPLE_MQ_NOT_SET</name>
+    </customLabels>
+    <customLabels>
+        <label>: vous devez entrer une valeur.</label>
+        <name>ERROR_EMPTY</name>
+    </customLabels>
+    <customLabels>
+        <label>Toutes les Conditions Générales doivent être acceptées pour pouvoir utiliser Créditor</label>
+        <name>ERROR_GENERAL_CONDITIONS</name>
+    </customLabels>
+    <customLabels>
+        <label>Impossible de supprimer le 1er prêt</label>
+        <name>ERROR_IMPOSSIBLE_TO_REMOVE_1ST_LOAN</name>
+    </customLabels>
+    <customLabels>
+        <label>Vous n&apos;avez pas les droits pour modifier cet élément.</label>
+        <name>ERROR_INSUFFICIENT_PRIVILEGES</name>
+    </customLabels>
+    <customLabels>
+        <label>Données invalides</label>
+        <name>ERROR_INVALID_DATA</name>
+    </customLabels>
+    <customLabels>
+        <label>Erreur</label>
+        <name>ERROR_LABEL</name>
+    </customLabels>
+    <customLabels>
+        <label>Vous devez choisir un type d&apos;amortissement</label>
+        <name>ERROR_LOAN_AMORTIZING_REQUIRED</name>
+    </customLabels>
+    <customLabels>
+        <label>Vous devez renseigner le champ &quot;Montant&quot;</label>
+        <name>ERROR_LOAN_AMOUNT_EMPTY</name>
+    </customLabels>
+    <customLabels>
+        <label>Le champ contrat est une donnée obligatoire</label>
+        <name>ERROR_LOAN_CONTRACT_REQUIRED</name>
+    </customLabels>
+    <customLabels>
+        <label>Vous devez renseigner le champ &quot;Durée&quot;</label>
+        <name>ERROR_LOAN_DURATION_EMPTY</name>
+    </customLabels>
+    <customLabels>
+        <label>Vous devez renseigner le champ &quot;Pourcentage assuré&quot;</label>
+        <name>ERROR_LOAN_INSURED_QUOTA_EMPTY</name>
+    </customLabels>
+    <customLabels>
+        <label>Le Seuil n&apos;est pas dépassé pour le prêt: loanName</label>
+        <name>ERROR_LOAN_MS_THRESHOLD</name>
+    </customLabels>
+    <customLabels>
+        <label>Désolé, mais au moins un contrat de cette application (sur la garantie :coverageName) est associé à une garantie non autorisée dans ce point de vente</label>
+        <name>ERROR_LOAN_NO_AUTHORIZED_SUBSCRIBED_COVERAGE</name>
+    </customLabels>
+    <customLabels>
+        <label>Désolé, mais au moins un prêt (:loanName) n&apos;a pas de garanties</label>
+        <name>ERROR_LOAN_NO_SUBSCRIBED_COVERAGE_ASSOCIATED</name>
+    </customLabels>
+    <customLabels>
+        <label>Vous devez renseigner le champ &quot;Option&quot;</label>
+        <name>ERROR_LOAN_OTION_TO_BUY_EMPTY</name>
+    </customLabels>
+    <customLabels>
+        <label>Vous devez renseigner le champ Destination de prêt</label>
+        <name>ERROR_LOAN_PURPOSE_REQUIRED</name>
+    </customLabels>
+    <customLabels>
+        <label>Vous devez renseigner le type de prêt</label>
+        <name>ERROR_LOAN_TYPE_REQUIRED</name>
+    </customLabels>
+    <customLabels>
+        <label>Vous ne pouvez pas supprimer ce compte car il a des éléments liés.</label>
+        <name>ERROR_MESSAGE_ACCOUNT_HAS_CHILDREN</name>
+    </customLabels>
+    <customLabels>
+        <label>La hiérarchie de compte n&apos;est pas respectée</label>
+        <name>ERROR_MESSAGE_ACCOUNT_HIERARCHY_NOT_RESPECTED</name>
+    </customLabels>
+    <customLabels>
+        <label>Il n&apos;y a pas de taux associé à votre garantie qui correspond aux caracteristiques de votre contrat</label>
+        <name>ERROR_MESSAGE_NO_RATE</name>
+    </customLabels>
+    <customLabels>
+        <label>L&apos;age de l&apos;applicant dépasse les limites du contrat</label>
+        <name>ERROR_MESSAGE_RATE_AGE_EXCEED</name>
+    </customLabels>
+    <customLabels>
+        <label>L&apos;age de l&apos;applicant est en dehors des limites du contrat</label>
+        <name>ERROR_MESSAGE_RATE_AGE_MINIMUM</name>
+    </customLabels>
+    <customLabels>
+        <label>Le montant du contrat dépasse les limites du contrat</label>
+        <name>ERROR_MESSAGE_RATE_AMOUNT_EXCEED</name>
+    </customLabels>
+    <customLabels>
+        <label>Le montant du contrat est inférieur au montant minimum requis</label>
+        <name>ERROR_MESSAGE_RATE_AMOUNT_MINIMUM</name>
+    </customLabels>
+    <customLabels>
+        <label>Il n&apos;existe pas de taux correspondant à la durée choisie</label>
+        <name>ERROR_MESSAGE_RATE_DURATION</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- mobile localisation mandatory for account --></label>
+        <name>ERROR_MOBILE_LOCATION_MANDATORY</name>
+    </customLabels>
+    <customLabels>
+        <label>Désolé, l&apos;adhésion (:applicationName) ne peut être supprimée.</label>
+        <name>ERROR_MSG_CANNOT_DELETE_APPLICATION</name>
+    </customLabels>
+    <customLabels>
+        <label>Veuillez renseigner les dates manquantes.</label>
+        <name>ERROR_MSG_LVL1_DATES_EMPTY</name>
+    </customLabels>
+    <customLabels>
+        <label>Veuillez renseigner les dates manquantes.</label>
+        <name>ERROR_MSG_LVL2_DATES_EMPTY</name>
+    </customLabels>
+    <customLabels>
+        <label>Veuillez renseigner les dates manquantes.</label>
+        <name>ERROR_MSG_LVL3_DATES_EMPTY</name>
+    </customLabels>
+    <customLabels>
+        <label>Le bilan médical n&apos;est plus valable</label>
+        <name>ERROR_MSG_MCU_DATES_VTERM</name>
+    </customLabels>
+    <customLabels>
+        <label>Erreur sur l&apos;âge</label>
+        <name>ERROR_MSG_RATE_ERROR_AGE</name>
+    </customLabels>
+    <customLabels>
+        <label>Erreur sur l&apos;âge ou le montant</label>
+        <name>ERROR_MSG_RATE_ERROR_AGE_AMOUNT</name>
+    </customLabels>
+    <customLabels>
+        <label>Aucun taux trouvé correspondant au type d&apos;amortissement du prêt.</label>
+        <name>ERROR_MSG_RATE_ERROR_AMORTIZING_TYPE</name>
+    </customLabels>
+    <customLabels>
+        <label>Erreur sur le montant</label>
+        <name>ERROR_MSG_RATE_ERROR_AMOUNT</name>
+    </customLabels>
+    <customLabels>
+        <label>Erreur sur la durée</label>
+        <name>ERROR_MSG_RATE_ERROR_DURATION</name>
+    </customLabels>
+    <customLabels>
+        <label>Veuillez entrer une valeur</label>
+        <name>ERROR_MUST_ENTER_A_VALUE</name>
+    </customLabels>
+    <customLabels>
+        <label>Nombre maximum de prêts atteint (5 max)</label>
+        <name>ERROR_NB_OF_LOANS_REACHED</name>
+    </customLabels>
+    <customLabels>
+        <label>Vous n&apos;êtes pas autorisé à créer des adhérents</label>
+        <name>ERROR_NOT_ABLE_TO_CREATE_APPLICANT</name>
+    </customLabels>
+    <customLabels>
+        <label>Aucun contrat trouvé pour les critères saisis</label>
+        <name>ERROR_NO_CONTRACT_FOUND_FOR_CRITERIA</name>
+    </customLabels>
+    <customLabels>
+        <label>Erreur s\&apos;il vous plaît contactez un administrateur.</label>
+        <name>ERROR_NO_MS_TEMPLATE</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- ERROR_NO_QUOTATION_SELECTED_FOR_ASSIGNMENT_ --></label>
+        <name>ERROR_NO_QUOTATION_SELECTED_FOR_ASSIGNMENT</name>
+    </customLabels>
+    <customLabels>
+        <label>Erreur, s&apos;il vous plaît contactez un administrateur.</label>
+        <name>ERROR_NO_QUOTATION_TEMPLATE</name>
+    </customLabels>
+    <customLabels>
+        <label>Pas de catégorie sélectionnée pour ce contrat</label>
+        <name>ERROR_ONLINEMQ_NO_CATEGORY_SELECTED</name>
+    </customLabels>
+    <customLabels>
+        <label>S&apos;il vous plaît répondez à toutes les questions</label>
+        <name>ERROR_ONLINEMQ_SET_ALL_ANSWERS</name>
+    </customLabels>
+    <customLabels>
+        <label>S&apos;il vous plaît répondez à toutes les questions détaillées</label>
+        <name>ERROR_ONLINEMQ_SET_ALL_DETAILED_ANSWERS</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- ERROR_ON_LOAN --></label>
+        <name>ERROR_ON_LOAN</name>
+    </customLabels>
+    <customLabels>
+        <label>Une erreur s&apos;est produite durant la signature électronique sur la plateforme Universign</label>
+        <name>ERROR_ON_UNIVERSIGN</name>
+    </customLabels>
+    <customLabels>
+        <label>Le point de vente est une valeur obligatoire.</label>
+        <name>ERROR_POINT_OF_SALES_IS_REQUIRED</name>
+    </customLabels>
+    <customLabels>
+        <label>Erreur : vous devez avoir plus de 18 ans.</label>
+        <name>ERROR_QUOTATION_AGE</name>
+    </customLabels>
+    <customLabels>
+        <label>La qualité de l&apos;adhérent n&apos;est pas renseigné</label>
+        <name>ERROR_QUOTATION_APPLICANT_QUALITY</name>
+    </customLabels>
+    <customLabels>
+        <label>Pour convertir, vous devez choisir une option.</label>
+        <name>ERROR_QUOTATION_APPLICANT_SOLUTION</name>
+    </customLabels>
+    <customLabels>
+        <label>Erreur : vous devez entrer une date de naissance.</label>
+        <name>ERROR_QUOTATION_BIRTHDATE</name>
+    </customLabels>
+    <customLabels>
+        <label>Cette quotation a déjà été convertie</label>
+        <name>ERROR_QUOTATION_CONVERTED</name>
+    </customLabels>
+    <customLabels>
+        <label>Vous devez renseigner au moins un email, une adresse postale ou un téléphone</label>
+        <name>ERROR_QUOTATION_COORDONANCE</name>
+    </customLabels>
+    <customLabels>
+        <label>Vous devez choisir une durée.</label>
+        <name>ERROR_QUOTATION_DURATION</name>
+    </customLabels>
+    <customLabels>
+        <label>Le prénom est manquant</label>
+        <name>ERROR_QUOTATION_FIRST_NAME</name>
+    </customLabels>
+    <customLabels>
+        <label>La quotité doit être égale ou inférieure à 100%</label>
+        <name>ERROR_QUOTATION_INSURED_QUOTA_TOP_VALUE</name>
+    </customLabels>
+    <customLabels>
+        <label>Vous devez entrer une quotité.</label>
+        <name>ERROR_QUOTATION_ISURED_QUOTA</name>
+    </customLabels>
+    <customLabels>
+        <label>Le nom est manquant</label>
+        <name>ERROR_QUOTATION_LAST_NAME</name>
+    </customLabels>
+    <customLabels>
+        <label>Vous devez entrer un montant de prêt.</label>
+        <name>ERROR_QUOTATION_LOAN_AMOUNT</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- ERROR.QUOTATION_LOAN_INSURED_QUOTA --></label>
+        <name>ERROR_QUOTATION_LOAN_INSURED_QUOTA</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- ERROR.QUOTATION_LOAN_INSURED_QUOTA_EMPTY --></label>
+        <name>ERROR_QUOTATION_LOAN_INSURED_QUOTA_EMPTY</name>
+    </customLabels>
+    <customLabels>
+        <label>Le prénom et le nom sont des champs obligatoires.</label>
+        <name>ERROR_QUOTATION_NAME</name>
+    </customLabels>
+    <customLabels>
+        <label>Vous devez sélectionner une périodicité.</label>
+        <name>ERROR_QUOTATION_PERIODICITY</name>
+    </customLabels>
+    <customLabels>
+        <label>La personne n&apos;a pas été trouvée, veuillez vérifier vos données ou créer un nouvel adhérent.</label>
+        <name>ERROR_QUOTATION_PREFIXAPP</name>
+    </customLabels>
+    <customLabels>
+        <label>Veuillez revoir tous les messages d&apos;erreur ci-dessous afin de corriger vos données</label>
+        <name>ERROR_REVIEW_ALL_ERROR_MESSAGES</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- FIELD_USER_DATE --></label>
+        <name>FIELD_USER_DATE</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- FIELD_USER_NAME --></label>
+        <name>FIELD_USER_NAME</name>
+    </customLabels>
+    <customLabels>
+        <label>Web Creditor</label>
+        <name>FOOTER_DEFAULT_TEXT</name>
+    </customLabels>
+    <customLabels>
+        <label>Vous avez oublié votre mot de passe ?</label>
+        <name>FORGOT_PASSWORD</name>
+    </customLabels>
+    <customLabels>
+        <label>Votre nouveau mot de passe vous a été envoyé</label>
+        <name>FORGOT_PASSWORD_CONFIRMATION_TITLE</name>
+    </customLabels>
+    <customLabels>
+        <label>Retourner à la page de connexion</label>
+        <name>FORGOT_PASSWORD_RETURN_LOGIN_PAGE</name>
+    </customLabels>
+    <customLabels>
+        <label>Vous avez oublié votre mot de passe ? Saisissez simplement votre identifiant ci-dessous et vous recevrez votre mot de passe temporaire par e-mail. Il vous suffira de le saisir dans la page d&apos;authentification.</label>
+        <name>FORGOT_PASSWORD_TITLE</name>
+    </customLabels>
+    <customLabels>
+        <label>Edition de pièce jointe</label>
+        <name>GENERICATTACHMENT_EDIT_FORM_TITLE</name>
+    </customLabels>
+    <customLabels>
+        <label>Informations sur la pièce jointe</label>
+        <name>GENERICATTACHMENT_INFORMATION_TITLE</name>
+    </customLabels>
+    <customLabels>
+        <label>Vous devez remplir soit tous les champs de la GIS soit aucun</label>
+        <name>GIS_CONFIGURATION_ERROR_MESSAGE</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- GIS_NAME --></label>
+        <name>GIS_NAME</name>
+    </customLabels>
+    <customLabels>
+        <label>Accéder à la liste</label>
+        <name>GOTOLIST_LINK</name>
+    </customLabels>
+    <customLabels>
+        <label>plus grand que</label>
+        <name>GREATER_THAN</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Label for the GUCA&apos;s lkid id --></label>
+        <name>GUCA_LKID</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- error message when creating a GUCA with a not distributor account --></label>
+        <name>GUCA_OTHER_DISTRIBUTOR</name>
+    </customLabels>
+    <customLabels>
+        <label>https://c.eu1.content.force.com/servlet/servlet.FileDownload?file=015D0000002CWGi</label>
+        <name>HELP_HEADER_LINK</name>
+    </customLabels>
+    <customLabels>
+        <label>Aide</label>
+        <name>HELP_HEADER_LINK_LABEL</name>
+    </customLabels>
+    <customLabels>
+        <label>non coché</label>
+        <name>HISTORY_BOOLEAN_FALSE</name>
+    </customLabels>
+    <customLabels>
+        <label>coché</label>
+        <name>HISTORY_BOOLEAN_TRUE</name>
+    </customLabels>
+    <customLabels>
+        <label>&lt;b&gt;:field&lt;/b&gt; a changé :from à &lt;b&gt;:to&lt;/b&gt;.</label>
+        <name>HISTORY_CHANGED_ACTION</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- HISTORY_CHANGED_DECISION --></label>
+        <name>HISTORY_CHANGED_DECISION</name>
+    </customLabels>
+    <customLabels>
+        <label>&lt;b&gt;:field&lt;/b&gt; modifié.</label>
+        <name>HISTORY_CHANGED_EMPTY_ACTION</name>
+    </customLabels>
+    <customLabels>
+        <label>Créé.</label>
+        <name>HISTORY_CREATED_ACTION</name>
+    </customLabels>
+    <customLabels>
+        <label>:value supprimé dans &lt;b&gt;:field&lt;/b&gt;.</label>
+        <name>HISTORY_DELETED_ACTION</name>
+    </customLabels>
+    <customLabels>
+        <label>de :value</label>
+        <name>HISTORY_FROM_ACTION</name>
+    </customLabels>
+    <customLabels>
+        <label>Historique des informations</label>
+        <name>HISTORY_INFORMATION</name>
+    </customLabels>
+    <customLabels>
+        <label>Mon historique</label>
+        <name>HISTORY_PAGE_BLOCK_TITLE</name>
+    </customLabels>
+    <customLabels>
+        <label>Historique :object</label>
+        <name>HISTORY_TITLE</name>
+    </customLabels>
+    <customLabels>
+        <label>Informations d&apos;Engagement</label>
+        <name>INFORMATION</name>
+    </customLabels>
+    <customLabels>
+        <label>Mes informations</label>
+        <name>INFORMATION_TITLE</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Record type: &quot;Insurer&quot; --></label>
+        <name>INSURER_ACCOUNT_RECORD_TYPE</name>
+    </customLabels>
+    <customLabels>
+        <label>Assureur</label>
+        <name>INSURER_ACCOUNT_RECORD_TYPE_NAME</name>
+    </customLabels>
+    <customLabels>
+        <label>Quotations Internet</label>
+        <name>INTERNET_SIMULATION</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Label for kazakstan --></label>
+        <name>KAZAKZTAN_NAME</name>
+    </customLabels>
+    <customLabels>
+        <label>Accès à la Sélection Médicale</label>
+        <name>LABEL_ACCESS_TO_MEDICAL_SELECTION</name>
+    </customLabels>
+    <customLabels>
+        <label>ou</label>
+        <name>LABEL_SEPARATOR_OR</name>
+    </customLabels>
+    <customLabels>
+        <label>Dernière modification par</label>
+        <name>LAST_MODIFIED_BY</name>
+    </customLabels>
+    <customLabels>
+        <label>Supp</label>
+        <name>LINK_DEL</name>
+    </customLabels>
+    <customLabels>
+        <label>Modifier</label>
+        <name>LINK_EDIT</name>
+    </customLabels>
+    <customLabels>
+        <label>Voir</label>
+        <name>LINK_VIEW</name>
+    </customLabels>
+    <customLabels>
+        <label>Leasing avec date de fin</label>
+        <name>LOAN_AMORTIZING_TYPE_IS_LWER</name>
+    </customLabels>
+    <customLabels>
+        <label>Type d&apos;amortissement</label>
+        <name>LOAN_AMORTIZING_TYPE_LABEL</name>
+    </customLabels>
+    <customLabels>
+        <label>Information adhérent</label>
+        <name>LOAN_APPLICANT_INFO_TITLE</name>
+    </customLabels>
+    <customLabels>
+        <label>Contrat</label>
+        <name>LOAN_CONTRACT_LABEL</name>
+    </customLabels>
+    <customLabels>
+        <label>Décision prêt</label>
+        <name>LOAN_DECISION</name>
+    </customLabels>
+    <customLabels>
+        <label>Informations générales</label>
+        <name>LOAN_GENERAL_INFORMATION_TITLE</name>
+    </customLabels>
+    <customLabels>
+        <label>Information prêt</label>
+        <name>LOAN_INFORMATION_TITLE</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- LOAN_NO_COVERAGE --></label>
+        <name>LOAN_NO_COVERAGE</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- LOAN_NO_COVERAGE_SELECTED --></label>
+        <name>LOAN_NO_COVERAGE_SELECTED</name>
+    </customLabels>
+    <customLabels>
+        <label>Autres informations</label>
+        <name>LOAN_OTHER_INFORMATION_TITLE</name>
+    </customLabels>
+    <customLabels>
+        <label>Détail du prêt</label>
+        <name>LOAN_PAGEBLOCK_DETAIL_LABEL</name>
+    </customLabels>
+    <customLabels>
+        <label>Modification du prêt</label>
+        <name>LOAN_PAGEBLOCK_TITLE_LABEL</name>
+    </customLabels>
+    <customLabels>
+        <label>Annuelle</label>
+        <name>LOAN_PERIODICITY_ANNUAL</name>
+    </customLabels>
+    <customLabels>
+        <label>Semestrielle</label>
+        <name>LOAN_PERIODICITY_BIANNUAL</name>
+    </customLabels>
+    <customLabels>
+        <label>Mensuelle</label>
+        <name>LOAN_PERIODICITY_MONTHLY</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- LOAN_PERIODICITY_OTHER --></label>
+        <name>LOAN_PERIODICITY_OTHER</name>
+    </customLabels>
+    <customLabels>
+        <label>Trimestrielle</label>
+        <name>LOAN_PERIODICITY_QUATERLY</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- LOAN_PERIODICITY_UNIQUE --></label>
+        <name>LOAN_PERIODICITY_UNIQUE</name>
+    </customLabels>
+    <customLabels>
+        <label>Unique Seulement</label>
+        <name>LOAN_PERIODICITY_UNIQUE_ONLY</name>
+    </customLabels>
+    <customLabels>
+        <label>Destination du prêt</label>
+        <name>LOAN_PURPOSE_LABEL</name>
+    </customLabels>
+    <customLabels>
+        <label>Modification du prêt</label>
+        <name>LOAN_SECTION_SUBTITLE_LABEL</name>
+    </customLabels>
+    <customLabels>
+        <label>Nouveau prêt</label>
+        <name>LOAN_SECTION_TITLE_LABEL</name>
+    </customLabels>
+    <customLabels>
+        <label>Accepté</label>
+        <name>LOAN_STATUS_ACCEPTED</name>
+    </customLabels>
+    <customLabels>
+        <label>Accépté avec conditions spécifiques</label>
+        <name>LOAN_STATUS_ACCEPTED_WITH_CONDITION</name>
+    </customLabels>
+    <customLabels>
+        <label>Aucune décision possible</label>
+        <name>LOAN_STATUS_NO_DECISION</name>
+    </customLabels>
+    <customLabels>
+        <label>Rejeté</label>
+        <name>LOAN_STATUS_REJECTED</name>
+    </customLabels>
+    <customLabels>
+        <label>Prime totale</label>
+        <name>LOAN_TOTAL_PREMIUM</name>
+    </customLabels>
+    <customLabels>
+        <label>Catégorisation du prêt</label>
+        <name>LOAN_TYPES_AND_CONTRACT_TITLE</name>
+    </customLabels>
+    <customLabels>
+        <label>Type de prêt</label>
+        <name>LOAN_TYPE_LABEL</name>
+    </customLabels>
+    <customLabels>
+        <label>Ces modifications vont entrainer une remise à zéro des informations de la section médicale de l&apos;application ainsi qu&apos;une suppression des couvertures associées.
+Voulez-vous continuer ?</label>
+        <name>LOAN_WARN_RESET_MODIFICATION</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- LOGGING_OUT --></label>
+        <name>LOGGING_OUT</name>
+    </customLabels>
+    <customLabels>
+        <label>Valider</label>
+        <name>LOGIN_BUTTON</name>
+    </customLabels>
+    <customLabels>
+        <label>Veuillez renseigner vos paramètres de connexion :</label>
+        <name>LOGIN_ERROR_MESSAGE</name>
+    </customLabels>
+    <customLabels>
+        <label>Vous devez vous identifier afin d&apos;accèder au portail.</label>
+        <name>LOGIN_FIRST</name>
+    </customLabels>
+    <customLabels>
+        <label>Déconnexion</label>
+        <name>LOGOUT</name>
+    </customLabels>
+    <customLabels>
+        <label>Merci d&apos;avoir contacté l&apos;assistance. Vous pourrez trouver votre nouveau mot de passe ci-dessous.
+
+Merci</label>
+        <name>LOST_PASSWORD</name>
+    </customLabels>
+    <customLabels>
+        <label>: Mot de passe oublié</label>
+        <name>LOST_PASSWORD_HEADER</name>
+    </customLabels>
+    <customLabels>
+        <label>plus petit que</label>
+        <name>LOWER_THAN</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Adress of the popup to sign manualy the BPA --></label>
+        <name>MANUAL_SIGN_BPA_ADDRESS</name>
+    </customLabels>
+    <customLabels>
+        <label>-Sauvegarder le PDF sur votre Bureau&lt;br/&gt;
+-Imprimer le PDF&lt;/br&gt;
+-Signer le PDF dans l&apos;espace prévus à cet effet&lt;/br&gt;
+-L&apos;envoyer dans une enveloppe affranchie au tarif en vigueur à l&apos;adresse suivante :</label>
+        <name>MANUAL_SIGN_BPA_MESSAGE</name>
+    </customLabels>
+    <customLabels>
+        <label>Signature manuelle :</label>
+        <name>MANUAL_SIGN_BPA_TITLE</name>
+    </customLabels>
+    <customLabels>
+        <label>Informations Sélection Médicale</label>
+        <name>MEDICAL_PURPOSE</name>
+    </customLabels>
+    <customLabels>
+        <label>Les conditions générales doivent être acceptées avant d&apos;utiliser Web Creditor</label>
+        <name>MESSAGE_ALL_GUC_ACCEPTANCE_REQUIERED</name>
+    </customLabels>
+    <customLabels>
+        <label>Votre questionnaire a été créé avec succès.\nConnectez-vous dès à présent à DMS pour compléter votre questionnaire.\n</label>
+        <name>MSG_DMS_QUESTIONNAIRE_CREATED</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Technical Label (don&apos;t translate) – Medical Selection Level 0 --></label>
+        <name>MSLEVEL_0</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Technical Label (don&apos;t translate) - Medical Selection Level 1 --></label>
+        <name>MSLEVEL_1</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Technical Label (don&apos;t translate) - Medical Selection Level 1 and 2 --></label>
+        <name>MSLEVEL_1_AND_2</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Technical Label (don&apos;t translate) - Medical Selection Level 1 and 3 --></label>
+        <name>MSLEVEL_1_AND_3</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Technical Label (don&apos;t translate) - Medical Selection Level 2 --></label>
+        <name>MSLEVEL_2</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Technical Label (don&apos;t translate) - Medical Selection Level 3 --></label>
+        <name>MSLEVEL_3</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Technical Label (don&apos;t translate) - Medical Selection Level is not required --></label>
+        <name>MSLEVEL_NO_REQUIRED</name>
+    </customLabels>
+    <customLabels>
+        <label>Mes Quotations</label>
+        <name>MY_SIMULATION</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Id relied to the name flield of the applicant --></label>
+        <name>NAME_FIELD_ID_APPLICANT</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Id relied to the name flield of the application --></label>
+        <name>NAME_FIELD_ID_APPLICATION</name>
+    </customLabels>
+    <customLabels>
+        <label>Navigation</label>
+        <name>NAVIGATION</name>
+    </customLabels>
+    <customLabels>
+        <label>Adhésion</label>
+        <name>NAVIGATION_LINK_APPLICATION_LABEL</name>
+    </customLabels>
+    <customLabels>
+        <label>Prêt</label>
+        <name>NAVIGATION_LINK_LOAN_LABEL</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Text: &quot;Navigation&quot; displayed on the common page --></label>
+        <name>NAVIGATION_TITLE</name>
+    </customLabels>
+    <customLabels>
+        <label>Nouveau</label>
+        <name>NEW_BUTTON</name>
+    </customLabels>
+    <customLabels>
+        <label>Merci d&apos;avoir contacté l&apos;assistance. Vous pourrez trouver votre nouveau mot de passe ci-dessous.
+
+Merci</label>
+        <name>NEW_PASSWORD</name>
+    </customLabels>
+    <customLabels>
+        <label>Portail partenaire : Nouveau mot de passe</label>
+        <name>NEW_PASSWORD_HEADER</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- &quot;new&quot; technical label --></label>
+        <name>NEW_TECH</name>
+    </customLabels>
+    <customLabels>
+        <label>Félicitation,
+
+Vous êtes à présent un membre de notre système. Vous trouverez ci-dessous des informations importantes à propos de votre compte</label>
+        <name>NEW_USER</name>
+    </customLabels>
+    <customLabels>
+        <label>Bienvenue sur Web Creditor</label>
+        <name>NEW_USER_HEADER</name>
+    </customLabels>
+    <customLabels>
+        <label>Suivant</label>
+        <name>NEXT_BUTTON</name>
+    </customLabels>
+    <customLabels>
+        <label>Vous pouvez créer une nouvelle adhésion OU éditer une existante</label>
+        <name>NEXT_POPUP_APPLICANT_TEXT</name>
+    </customLabels>
+    <customLabels>
+        <label>Vous pouvez créer un nouveau prêt ou en editer un déjà existant</label>
+        <name>NEXT_POPUP_APPLICATION_TEXT</name>
+    </customLabels>
+    <customLabels>
+        <label>Choix</label>
+        <name>NEXT_POPUP_CHOICE_LABEL</name>
+    </customLabels>
+    <customLabels>
+        <label>Soumettre l&apos;adhésion ou annuler</label>
+        <name>NEXT_POPUP_COVERAGE_TEXT</name>
+    </customLabels>
+    <customLabels>
+        <label>Créer un nouveau prêt ou éditer un existant ou poursuivre l&apos;adhésion</label>
+        <name>NEXT_POPUP_LOAN_TEXT</name>
+    </customLabels>
+    <customLabels>
+        <label>Créer un nouveau prêt ou poursuivre l&apos;adhésion</label>
+        <name>NEXT_POPUP_LOAN_TEXT_NO_EDIT_LOAN</name>
+    </customLabels>
+    <customLabels>
+        <label>Que voulez-vous faire?</label>
+        <name>NEXT_POPUP_TITLE_LABEL</name>
+    </customLabels>
+    <customLabels>
+        <label>--Vide--</label>
+        <name>NON_OPTION_PICKLIST</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- NOTIFICATION_MESSAGE_APPLICANT_1 --></label>
+        <name>NOTIFICATION_MESSAGE_APPLICANT_1</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- NOTIFICATION_MESSAGE_APPLICANT_2 --></label>
+        <name>NOTIFICATION_MESSAGE_APPLICANT_2</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- NOTIFICATION_MESSAGE_APPLICANT_4 --></label>
+        <name>NOTIFICATION_MESSAGE_APPLICANT_4</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- NOTIFICATION_MESSAGE_APPLICANT_5 --></label>
+        <name>NOTIFICATION_MESSAGE_APPLICANT_5</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- NOTIFICATION_MESSAGE_APPLICANT_6 --></label>
+        <name>NOTIFICATION_MESSAGE_APPLICANT_6</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- NOTIFICATION_MESSAGE_DECISION_MAKER --></label>
+        <name>NOTIFICATION_MESSAGE_DECISION_MAKER</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- NOTIFICATION_MESSAGE_POS_1 --></label>
+        <name>NOTIFICATION_MESSAGE_POS_1</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- NOTIFICATION_MESSAGE_POS_2 --></label>
+        <name>NOTIFICATION_MESSAGE_POS_2</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- NOTIFICATION_MESSAGE_POS_3 --></label>
+        <name>NOTIFICATION_MESSAGE_POS_3</name>
+    </customLabels>
+    <customLabels>
+        <label>Votre BPA a été signé.</label>
+        <name>NOTIFICATION_MESSAGE_SAA_SIGNED</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- for fields which has not been define yet --></label>
+        <name>NOT_DEFINE</name>
+    </customLabels>
+    <customLabels>
+        <label>Aucun enregistrement à afficher</label>
+        <name>NO_RECORD_FOUND</name>
+    </customLabels>
+    <customLabels>
+        <label>Ok</label>
+        <name>OK_BUTTON</name>
+    </customLabels>
+    <customLabels>
+        <label>Non</label>
+        <name>ONLINEMQ_ANSWER_PICKLIST_NO</name>
+    </customLabels>
+    <customLabels>
+        <label>Oui</label>
+        <name>ONLINEMQ_ANSWER_PICKLIST_YES</name>
+    </customLabels>
+    <customLabels>
+        <label>QM en ligne</label>
+        <name>ONLINEMQ_BUTTON</name>
+    </customLabels>
+    <customLabels>
+        <label>Questionnaire niveau 1</label>
+        <name>ONLINEMQ_PAGEBLOCKSECTION_LEVEL1_TITLE</name>
+    </customLabels>
+    <customLabels>
+        <label>Questionnaire niveau 2</label>
+        <name>ONLINEMQ_PAGEBLOCKSECTION_LEVEL2_TITLE</name>
+    </customLabels>
+    <customLabels>
+        <label>Ouvrir</label>
+        <name>OPEN_ATTACHMENT</name>
+    </customLabels>
+    <customLabels>
+        <label>Ouvrir</label>
+        <name>OPEN_DOCUMENT_BUTTON</name>
+    </customLabels>
+    <customLabels>
+        <label>Propriétaire</label>
+        <name>OWNER</name>
+    </customLabels>
+    <customLabels>
+        <label>Rapport standard</label>
+        <name>PAGEBLOCK_TITLE_STANDARD_REPORT</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- page label for internet quotation pdf printing --></label>
+        <name>PAGE_LABEL</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- variable used to pass the test method --></label>
+        <name>PARTNER_DISTRIBUTOR_ACCOUNT</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- variable used to pass the test method --></label>
+        <name>PARTNER_INSURER_ACCOUNT</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- variable used to pass the test method --></label>
+        <name>PARTNER_POS_ACCOUNT</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- variable used to pass the test method --></label>
+        <name>PARTNER_REINSURER_ACCOUNT</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- variable used to pass the test method --></label>
+        <name>PARTNER_TPA_ACCOUNT</name>
+    </customLabels>
+    <customLabels>
+        <label>e mot de passe actuel n&apos;est plus valable. Pour des raisons de sécurité, votre mot de passe doit à présent être modifié.</label>
+        <name>PASSWORD_EXPIRED</name>
+    </customLabels>
+    <customLabels>
+        <label>Le mot de passe n&apos;est pas correct.</label>
+        <name>PASSWORD_IS_INCORRECT</name>
+    </customLabels>
+    <customLabels>
+        <label>Mot de passe</label>
+        <name>PASSWORD_LOGIN</name>
+    </customLabels>
+    <customLabels>
+        <label>Un e-mail vous a été envoyé avec un mot de passe temporaire.</label>
+        <name>PASSWORD_TEMPORARY_SENT</name>
+    </customLabels>
+    <customLabels>
+        <label>Leasing sans option d&apos;achat</label>
+        <name>PICKLIST_LOAN_AMORTIZING_TYPE_LEASING_WITHOUT_OPTION</name>
+    </customLabels>
+    <customLabels>
+        <label>N&apos;oubliez pas de sauver vos données avant de quitter</label>
+        <name>PLEASE_SAVE_YOUR_DATA</name>
+    </customLabels>
+    <customLabels>
+        <label>Etes-vous sur de bien vouloir changer de mode de sélection médicale?</label>
+        <name>POPUP_VALIDATE_MEDICAL_PURPOSE_SWITCH</name>
+    </customLabels>
+    <customLabels>
+        <label>Point de vente</label>
+        <name>POS_ACCOUNT_NAME</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Record type: &quot;Point of Sales&quot; --></label>
+        <name>POS_ACCOUNT_RECORD_TYPE</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- POWER_PARTNER_USER_TYPE --></label>
+        <name>POWER_PARTNER_USER_TYPE</name>
+    </customLabels>
+    <customLabels>
+        <label>Tarification</label>
+        <name>PRICING</name>
+    </customLabels>
+    <customLabels>
+        <label>Editer l&apos;ACD</label>
+        <name>PRINT_BUTTON</name>
+    </customLabels>
+    <customLabels>
+        <label>Traitement en cours ...</label>
+        <name>PROCESSING_STATUS</name>
+    </customLabels>
+    <customLabels>
+        <label>En attente de BPA</label>
+        <name>QS_PENDING_SAA</name>
+    </customLabels>
+    <customLabels>
+        <label>Informations complémentaire</label>
+        <name>QUOTATION_ADDITIONAL_INO_SECTION</name>
+    </customLabels>
+    <customLabels>
+        <label>Solution adhérent</label>
+        <name>QUOTATION_APPLICANT_SOLUTION_TITLE</name>
+    </customLabels>
+    <customLabels>
+        <label>Sélectionner au moins une garantie</label>
+        <name>QUOTATION_AT_LEAST_ONE_COVERAGE</name>
+    </customLabels>
+    <customLabels>
+        <label>CALCULER MAINTENANT</label>
+        <name>QUOTATION_CALCULATE_NOW</name>
+    </customLabels>
+    <customLabels>
+        <label>[Calcul en cours ...]</label>
+        <name>QUOTATION_CALCULATING_LABEL</name>
+    </customLabels>
+    <customLabels>
+        <label>Avez-vous vérifié le nom et prénom de l&apos;adhérent ?</label>
+        <name>QUOTATION_CONFIRM_MESSAGE_ON_SAVE</name>
+    </customLabels>
+    <customLabels>
+        <label>Unique</label>
+        <name>QUOTATION_DISPLAY_SINGLE</name>
+    </customLabels>
+    <customLabels>
+        <label>&lt;p&gt;La quotation internet : {0} a été créée&lt;p&gt;&lt;br&gt;
+&lt;p&gt;Merci d&apos;avoir choisi {1}&lt;/p&gt;&lt;br&gt;&lt;br&gt;
+&lt;p&gt; Votre quotation internet est &lt;b&gt;{2}&lt;/b&gt;&lt;br&gt;
+Vous avez fait une demande pour :&lt;br&gt;
+Nom du produit : {3}&lt;br&gt;
+Type d&apos;amortissement : {4}&lt;br&gt;
+Montant assuré : {5} {6}&lt;br&gt;
+Date de naissance : {7}&lt;br&gt;
+{8} : {9}&lt;br&gt;
+Périodicité : {10}&lt;br&gt;
+{11}: {12} {13}&lt;br&gt;
+&lt;/p&gt;
+{14}</label>
+        <name>QUOTATION_EMAIL_BODY</name>
+    </customLabels>
+    <customLabels>
+        <label>Attention: L&apos;adhérent existe déjà. La conversion se fera sur une nouvelle adhésion. &lt;br/&gt;Etes vous sur de vouloir continuer?</label>
+        <name>QUOTATION_EXISTING_APPLICANT_CONFIRM_ON_CONVERT</name>
+    </customLabels>
+    <customLabels>
+        <label>Pas renseigné</label>
+        <name>QUOTATION_FIELD_NOT_RENSEIGNED</name>
+    </customLabels>
+    <customLabels>
+        <label>Filtre</label>
+        <name>QUOTATION_FILTER_LABEL</name>
+    </customLabels>
+    <customLabels>
+        <label>Quotation ID</label>
+        <name>QUOTATION_ID_FIELD_LABEL</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Label of Quotation ID --></label>
+        <name>QUOTATION_ID_LABEL</name>
+    </customLabels>
+    <customLabels>
+        <label>Vos informations personnelles seront enregistrées dans notre base.</label>
+        <name>QUOTATION_INFO_STORED_MSG</name>
+    </customLabels>
+    <customLabels>
+        <label>Votre requête a bien été transmise à notre équipe.</label>
+        <name>QUOTATION_INFO_TRANSMITTED_MSG</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Not proceeded quotation status --></label>
+        <name>QUOTATION_NOT_PROCEEDED_STATUS</name>
+    </customLabels>
+    <customLabels>
+        <label>Une des garanties ne présente aucun taux. Merci de modifier et réessayer.</label>
+        <name>QUOTATION_NO_RATE_PLEASE_MODIFY</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- DONT TRANSLATE:value of option to buy in quotation to inform user about calcul --></label>
+        <name>QUOTATION_OPTION_TO_BUY_AMOUNT_LABEL</name>
+    </customLabels>
+    <customLabels>
+        <label>Votre prime {0}est :</label>
+        <name>QUOTATION_PREMIUM_AMOUNT_SENTENCE</name>
+    </customLabels>
+    <customLabels>
+        <label>Quotations traitées</label>
+        <name>QUOTATION_PROCEEDED</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- proceeded and converted quotation status --></label>
+        <name>QUOTATION_PROCEEDED_AND_CONVERTED_STATUS</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- proceeded and not converted quotation status --></label>
+        <name>QUOTATION_PROCEEDED_AND_NOT_CONVERTED_STATUS</name>
+    </customLabels>
+    <customLabels>
+        <label>Quotation Statut</label>
+        <name>QUOTATION_STATUS_TITLE</name>
+    </customLabels>
+    <customLabels>
+        <label>Affiliation</label>
+        <name>QUOTATION_TITLE_AFFILIATION</name>
+    </customLabels>
+    <customLabels>
+        <label>Information Générale</label>
+        <name>QUOTATION_TITLE_GENERAL_INFO</name>
+    </customLabels>
+    <customLabels>
+        <label>Quotation en ligne</label>
+        <name>QUOTATION_TITLE_INTERNET</name>
+    </customLabels>
+    <customLabels>
+        <label>Devis</label>
+        <name>QUOTATION_TITLE_POS</name>
+    </customLabels>
+    <customLabels>
+        <label>Information prospect</label>
+        <name>QUOTATION_TITLE_PROSPECT</name>
+    </customLabels>
+    <customLabels>
+        <label>Garanties Quotation</label>
+        <name>QUOTATION_TITLE_SECTION_COVERAGE</name>
+    </customLabels>
+    <customLabels>
+        <label>Résultat quotation</label>
+        <name>QUOTATION_TITLE_SECTION_RESULT</name>
+    </customLabels>
+    <customLabels>
+        <label>Sécurité</label>
+        <name>QUOTATION_TITLE_SECTION_SECURITY</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Value of the Type column of Quotation List View --></label>
+        <name>QUOTATION_TYPE_LABEL</name>
+    </customLabels>
+    <customLabels>
+        <label>Ce devis est valable pendant 6 mois</label>
+        <name>RATE_CALCULATED_MESSAGE</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Label of the rate type amount --></label>
+        <name>RATE_TYPE_AMOUNT</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Label of the rate type percent --></label>
+        <name>RATE_TYPE_PERCENT</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Define Contract record type for Contract Distributor Quotation Generic Field --></label>
+        <name>RECORD_TYPE_CONTRACT_QUOTATION_GEN_FIELD</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- RECORD_TYPE_SOBJTYPE_TASK --></label>
+        <name>RECORD_TYPE_SOBJTYPE_TASK</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Record type: &quot;Reinsurer&quot; --></label>
+        <name>REINSURER_ACCOUNT_RECORD_TYPE</name>
+    </customLabels>
+    <customLabels>
+        <label>Filtrer le rapport</label>
+        <name>REPORT_FILTER_PAGE_BLOCK_TITLE</name>
+    </customLabels>
+    <customLabels>
+        <label>En cours...</label>
+        <name>REQUESTING</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Label of the requirement applicant age --></label>
+        <name>REQUIREMENT_TYPE_APPLICANT_AGE</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Label of the requirement loan amount --></label>
+        <name>REQUIREMENT_TYPE_LOAN_AMOUNT</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Label of the requirement loan duration --></label>
+        <name>REQUIREMENT_TYPE_LOAN_DURATION</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Label for Russia --></label>
+        <name>RUSSIA_NAME</name>
+    </customLabels>
+    <customLabels>
+        <label>Cher(e)</label>
+        <name>SALUTATION</name>
+    </customLabels>
+    <customLabels>
+        <label>Enregistrer &amp; Nouveau</label>
+        <name>SAVENEW_BUTTON</name>
+    </customLabels>
+    <customLabels>
+        <label>Enregistrer</label>
+        <name>SAVE_BUTTON</name>
+    </customLabels>
+    <customLabels>
+        <label>Voir détails</label>
+        <name>SEE_DETAILS_LINK</name>
+    </customLabels>
+    <customLabels>
+        <label>Selectionnner un point de vente à assigner:</label>
+        <name>SELECT_POS_TO_ASSIGN</name>
+    </customLabels>
+    <customLabels>
+        <label>Date d&apos;envoi</label>
+        <name>SENDING_DATE</name>
+    </customLabels>
+    <customLabels>
+        <label>Veuillez sauvegarder et imprimer votre document médical, la période de validité est</label>
+        <name>SETTABLE_SENTENCE</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Technical field, no answer to the simple medical questionnaire --></label>
+        <name>SIMPLE_NO_ANSWER</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Technical field, yes answer to the simple medical questionnaire --></label>
+        <name>SIMPLE_YES_VALUE</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- title of the simulation page --></label>
+        <name>SIMULATION_TITLE</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- source of a quotation is internet --></label>
+        <name>SOURCE_INTERNET</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- source of a quotation is POS --></label>
+        <name>SOURCE_POS</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Text for the name of the &quot;Credito Standard&quot; profile --></label>
+        <name>STANDARD_PROFILE_NAME</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Variable related to the start date calendar --></label>
+        <name>START_DATE_CALENDAR</name>
+    </customLabels>
+    <customLabels>
+        <label>Terminer</label>
+        <name>SUBMIT_BUTTON</name>
+    </customLabels>
+    <customLabels>
+        <label>Désolé, la garantie ne peut pas être modifiée car l&apos;adhésion est &quot;:applicationStatus&quot;</label>
+        <name>SUBSCRIBEDCOVERAGE_ERROR_CANNOT_MODIFY</name>
+    </customLabels>
+    <customLabels>
+        <label>Aucun tarif ne correspond aux critères sélectionnés. S&apos;il vous plaît vérifiez les informations.</label>
+        <name>SUBSCRIBEDCOVERAGE_ERROR_NO_RATE_MATCHING</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Information section in Subscribed Coverage view --></label>
+        <name>SUBSCRIBEDCOVERAGE_INFO_SECTION</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- ID of the subscribe coverage page --></label>
+        <name>SUBSCRIBEDCOVERAGE_PAGE_ID</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Pricing section in Subscribed Coverage view --></label>
+        <name>SUBSCRIBEDCOVERAGE_PRICE_SECTION</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Insurer username --></label>
+        <name>SUBSCRIBEDCOVERAGE_TEST_USER_I</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Pos non-owner username --></label>
+        <name>SUBSCRIBEDCOVERAGE_TEST_USER_POS_NONOWNER</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Pos RO username --></label>
+        <name>SUBSCRIBEDCOVERAGE_TEST_USER_POS_RO</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Pos RW username --></label>
+        <name>SUBSCRIBEDCOVERAGE_TEST_USER_POS_RW</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Reinsurer username --></label>
+        <name>SUBSCRIBEDCOVERAGE_TEST_USER_RI</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TPA username --></label>
+        <name>SUBSCRIBEDCOVERAGE_TEST_USER_TPA</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- View Section --></label>
+        <name>SUBSCRIBEDCOVERAGE_VIEW</name>
+    </customLabels>
+    <customLabels>
+        <label>Modification Garantie</label>
+        <name>SUBSCRIBED_COVERAGE_EDIT</name>
+    </customLabels>
+    <customLabels>
+        <label>Lettre D&apos;acceptation</label>
+        <name>TASK_ACCEPTANCE_LETTER_DOC</name>
+    </customLabels>
+    <customLabels>
+        <label>Formulaire D&apos;adhésion</label>
+        <name>TASK_BA_DOC</name>
+    </customLabels>
+    <customLabels>
+        <label>Compléter</label>
+        <name>TASK_COMPLETE_ACTION</name>
+    </customLabels>
+    <customLabels>
+        <label>Votre demande de renseignements complémentaires (Epilepsie)</label>
+        <name>TASK_DRC0_DOC</name>
+    </customLabels>
+    <customLabels>
+        <label>Votre demande de renseignements complémentaires (Sclérose)</label>
+        <name>TASK_DRC1_DOC</name>
+    </customLabels>
+    <customLabels>
+        <label>Demande De Renseignements Complémentaires</label>
+        <name>TASK_DRC_DOC</name>
+    </customLabels>
+    <customLabels>
+        <label>Formulaire D&apos;écrêtement</label>
+        <name>TASK_ECRETEMENT_DOC</name>
+    </customLabels>
+    <customLabels>
+        <label>Signer électroniquement</label>
+        <name>TASK_E_SIGN_ACTION</name>
+    </customLabels>
+    <customLabels>
+        <label>Avis du Médecin Conseil</label>
+        <name>TASK_MAO_DOC</name>
+    </customLabels>
+    <customLabels>
+        <label>Questionnaire Médical</label>
+        <name>TASK_MQ_DOC</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TASK_MR_ACTION --></label>
+        <name>TASK_MR_ACTION</name>
+    </customLabels>
+    <customLabels>
+        <label>Demande d&apos;Examens Médicaux</label>
+        <name>TASK_MR_DOC</name>
+    </customLabels>
+    <customLabels>
+        <label>Lettre De Notification</label>
+        <name>TASK_NOTIFICATION_LETTER_DOC</name>
+    </customLabels>
+    <customLabels>
+        <label>La lettre d&apos;acceptation a été consultée. Veuillez passer à l&apos;étape suivante</label>
+        <name>TASK_POS_ACCEPTANCE_DESC</name>
+    </customLabels>
+    <customLabels>
+        <label>Lettre d&apos;acceptation consultée</label>
+        <name>TASK_POS_ACCEPTANCE_SUBJECT</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TASK_POS_BA_DESC --></label>
+        <name>TASK_POS_BA_DESC</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TASK_POS_BA_SUBJECT --></label>
+        <name>TASK_POS_BA_SUBJECT</name>
+    </customLabels>
+    <customLabels>
+        <label>La DRC a été consultée. Veuillez passer à l&apos;étape suivante</label>
+        <name>TASK_POS_DRC_DESC</name>
+    </customLabels>
+    <customLabels>
+        <label>DRC consultée</label>
+        <name>TASK_POS_DRC_SUBJECT</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TASK_POS_MADE_DECISION_DESC --></label>
+        <name>TASK_POS_MADE_DECISION_DESC</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TASK_POS_MADE_DECISION_SUBJECT --></label>
+        <name>TASK_POS_MADE_DECISION_SUBJECT</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TASK_POS_MQ_DESC --></label>
+        <name>TASK_POS_MQ_DESC</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TASK_POS_MQ_SUBJECT --></label>
+        <name>TASK_POS_MQ_SUBJECT</name>
+    </customLabels>
+    <customLabels>
+        <label>La lettre de notification a été consultée. Veuillez passer à l&apos;étape suivante</label>
+        <name>TASK_POS_NOTIFICATION_DESC</name>
+    </customLabels>
+    <customLabels>
+        <label>Lettre de notification consultée</label>
+        <name>TASK_POS_NOTIFICATION_SUBJECT</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TASK_POS_SAA_DESC --></label>
+        <name>TASK_POS_SAA_DESC</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TASK_POS_SAA_SUBJECT --></label>
+        <name>TASK_POS_SAA_SUBJECT</name>
+    </customLabels>
+    <customLabels>
+        <label>Bon Pour Accord</label>
+        <name>TASK_SAA_DOC</name>
+    </customLabels>
+    <customLabels>
+        <label>Prendre Connaissance</label>
+        <name>TASK_VIEW_ACTION</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TECH_ACCEPTED_SPEC_CONDITIONS --></label>
+        <name>TECH_ACCEPTED_SPEC_CONDITIONS</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Technical Loan status - Accepted with specific conditions --></label>
+        <name>TECH_ACCEPTED_WITH_SPECIFIC_CONDITIONS</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Technical Label (don&apos;t translate) - Amount Field of Quotation Additional Info --></label>
+        <name>TECH_ADDINFO_FIELD_TYPE_AMOUNT</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Technical Label (don&apos;t translate) - Date Field of Quotation Additional Info --></label>
+        <name>TECH_ADDINFO_FIELD_TYPE_DATE</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Technical Label (don&apos;t translate) - LittleText Field-Quotation Additional Info --></label>
+        <name>TECH_ADDINFO_FIELD_TYPE_LITTLETEXT</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Technical Label (don&apos;t translate) - Number Field of Quotation Additional Info --></label>
+        <name>TECH_ADDINFO_FIELD_TYPE_NUMBER</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Technical Label (don&apos;t translate) - Percent Field of Quotation Additional Info --></label>
+        <name>TECH_ADDINFO_FIELD_TYPE_PERCENT</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Technical Label (don&apos;t translate) - Picklist Field - Quotation Additional Info --></label>
+        <name>TECH_ADDINFO_FIELD_TYPE_PICKLIST</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Technical Label (don&apos;t translate) - Text Field of Quotation Additional Info --></label>
+        <name>TECH_ADDINFO_FIELD_TYPE_TEXT</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TECH_ADMIN_PROFILE_NAME --></label>
+        <name>TECH_ADMIN_PROFILE_NAME</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Admin User Role --></label>
+        <name>TECH_ADMIN_USER_ROLE</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Technical Label (don&apos;t translate) - Date Answer Type --></label>
+        <name>TECH_ANSWER_TYPE_DATE</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Technical Label (don&apos;t translate) - Number Answer Type --></label>
+        <name>TECH_ANSWER_TYPE_NUMBER</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Technical Label (don&apos;t translate) - Percent Answer Type --></label>
+        <name>TECH_ANSWER_TYPE_PERCENT</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Technical Label (don&apos;t translate) - Picklist Answer Type --></label>
+        <name>TECH_ANSWER_TYPE_PICKLIST</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Technical Label (don&apos;t translate) - Text Answer Type --></label>
+        <name>TECH_ANSWER_TYPE_TEXT</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Technical field (Don&apos;t translate)Loan field ID on sub. coverage --></label>
+        <name>TECH_API_SUBCOV_LOAN</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Applicant Profile --></label>
+        <name>TECH_APPLICANT_PROFILE</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Applicant Space URL --></label>
+        <name>TECH_APPLICANT_SPACE_BASE_URL</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- URL in Applicant Space with https protocol --></label>
+        <name>TECH_APPLICANT_SPACE_BASE_URL_HTTPS</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TECH_APPLICANT_SPACE_URL --></label>
+        <name>TECH_APPLICANT_SPACE_URL</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TECH_APPLICANT_SPACE_URL_SUFFIX --></label>
+        <name>TECH_APPLICANT_SPACE_URL_SUFFIX</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- 1 answer in DMQ &quot;yes&quot; and 1 pathologies at least declared are not in picklist --></label>
+        <name>TECH_APPLICATION_DETAILEDMQ_ANS_1_YES_1_PATH_NOTIN_PL</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- 1 answer at least in the DMQ &quot;yes&quot; but all pathologies declared are in the list --></label>
+        <name>TECH_APPLICATION_DETAILEDMQ_ANS_1_YES_ALL_PATH_IN_PL</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Technical field of application detailed MQ answer all no --></label>
+        <name>TECH_APPLICATION_DETAILEDMQ_ANS_ALL_NO</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- MQ Offline Mode in Application --></label>
+        <name>TECH_APPLICATION_MS_MODE_OFFLINE_MS</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TECH_APPLICATION_MS_MODE_ONLINE_MS --></label>
+        <name>TECH_APPLICATION_MS_MODE_ONLINE_MS</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TECH_APPLICATION_QUESTIONNAIRE_STATUS_OFFLINE --></label>
+        <name>TECH_APPLICATION_QUESTIONNAIRE_STATUS_OFFLINE</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Id of the repport application --></label>
+        <name>TECH_APPLICATION_REPORT_ID</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Technical field of application simple MQ answer in good health value --></label>
+        <name>TECH_APPLICATION_SIMPLEMQ_ANSWER_IN_GOOD_HEALTH</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Technical field of application simple MQ answer not in good health value --></label>
+        <name>TECH_APPLICATION_SIMPLEMQ_ANSWER_NOT_IN_GOOD_HEALTH</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Technical field Accepted with special Conditions --></label>
+        <name>TECH_APPLICATION_STATUS_ACCEPTED_CONDITIONS</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Technical field Pending DRC status --></label>
+        <name>TECH_APPLICATION_STATUS_PENDING_DRC</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Technical field Pending SAA status --></label>
+        <name>TECH_APPLICATION_STATUS_PENDING_SAA</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- x --></label>
+        <name>TECH_APP_CANCELLATION_DAYS</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- tech label for reminder mail on status change --></label>
+        <name>TECH_APP_STATUS_CHANGE_REMINDER</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Value of pending ADI in application pending status --></label>
+        <name>TECH_APP_STATUS_PENDING_ADI</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Value of pending AcceptanceLetter in application pending status --></label>
+        <name>TECH_APP_STATUS_PENDING_AL</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Value of pending BPA in application pending status --></label>
+        <name>TECH_APP_STATUS_PENDING_BPA</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Value of pending Medical Exam in application pending status --></label>
+        <name>TECH_APP_STATUS_PENDING_ME</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Value of pending Notification Letter in application pending status --></label>
+        <name>TECH_APP_STATUS_PENDING_NL</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- User type of an AS user --></label>
+        <name>TECH_AS_USER_TYPE</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TECH_BASE_URL --></label>
+        <name>TECH_BASE_URL</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Id of the detailed questions conga query --></label>
+        <name>TECH_CONGA_QUERY_DETAILED_QUESTIONS</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Id of the conga query for Ecretement --></label>
+        <name>TECH_CONGA_QUERY_ID_FOR_CAPPING</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Id of the conga query for Ecreted Subscribed Coverage --></label>
+        <name>TECH_CONGA_QUERY_ID_FOR_ECRETED_SC</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TECH_CONGA_QUERY_ID_FOR_LOANS --></label>
+        <name>TECH_CONGA_QUERY_ID_FOR_LOANS</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TECH_CONGA_QUERY_ID_FOR_USER --></label>
+        <name>TECH_CONGA_QUERY_ID_FOR_USER</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Id of the multi-contract detailed questions conga query --></label>
+        <name>TECH_CONGA_QUERY_MULTICONTRACT_DETAILED_QUESTIONS</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Id of the multi-contract simple questions conga query --></label>
+        <name>TECH_CONGA_QUERY_MULTICONTRACT_SIMPLE_QUESTIONS</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Id of the simple questions conga query --></label>
+        <name>TECH_CONGA_QUERY_SIMPLE_QUESTIONS</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TECH_CONTRACTTYPE_DGH --></label>
+        <name>TECH_CONTRACTTYPE_DGH</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TECH_CONTRACTTYPE_DGH_DMQ --></label>
+        <name>TECH_CONTRACTTYPE_DGH_DMQ</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TECH_CONTRACTTYPE_DMQ --></label>
+        <name>TECH_CONTRACTTYPE_DMQ</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TECH_CONTRACTTYPE_SMQ --></label>
+        <name>TECH_CONTRACTTYPE_SMQ</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TECH_CONTRACTTYPE_SMQ_DMQ --></label>
+        <name>TECH_CONTRACTTYPE_SMQ_DMQ</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Technical field of declaration of good health picklist value --></label>
+        <name>TECH_CONTRACT_LEVEL_ONE_DGH_PICKLIST_VALUE</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Rate Formula 0 in Contract --></label>
+        <name>TECH_CONTRACT_RATE_FORMULA_0</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Technical field of simple mq level picklist value --></label>
+        <name>TECH_CONTRACT_SIMPLE_LEVEL_ONE_PICKLIST_VALUE</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Name of the Coverage &quot;Perte d&apos;emploi&quot; for CFF Template --></label>
+        <name>TECH_COVERAGE_NAME_APE</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Name of the Coverage &quot;Perte d&apos;emploi conditionnel&quot; --></label>
+        <name>TECH_COVERAGE_NAME_APEC</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Name of the Coverage &quot;Deces&quot; for CFF Template --></label>
+        <name>TECH_COVERAGE_NAME_DECES</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Name of the Coverage &quot;Famille Plus&quot; --></label>
+        <name>TECH_COVERAGE_NAME_FP</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Name of the Coverage &quot;IP&quot; for CFF Template --></label>
+        <name>TECH_COVERAGE_NAME_IP</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Name of the Coverage &quot;ITD&quot; for CFF Template --></label>
+        <name>TECH_COVERAGE_NAME_ITD</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Name of the Coverage &quot;ITT&quot; for CFF Template --></label>
+        <name>TECH_COVERAGE_NAME_ITT</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Name of the Coverage &quot;PTIA&quot; for CFF Template --></label>
+        <name>TECH_COVERAGE_NAME_PTIA</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Name of the Coverage &quot;Solidarité Plus&quot; --></label>
+        <name>TECH_COVERAGE_NAME_SP</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Don&apos;t translate Coverage type used in code --></label>
+        <name>TECH_COVERAGE_TYPE_ADVISED</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- ** DO NOT TRANSLATE ** --></label>
+        <name>TECH_COVERAGE_TYPE_APPLICATION_ONLY</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TECH COVERAGE TYPE DC --></label>
+        <name>TECH_COVERAGE_TYPE_DC</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TECH COVERAGE TYPE DC/PTIA --></label>
+        <name>TECH_COVERAGE_TYPE_DC_PTIA</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Don&apos;t translate Coverage type used in code --></label>
+        <name>TECH_COVERAGE_TYPE_PROPOSED</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Don&apos;t translate --></label>
+        <name>TECH_COVERAGE_TYPE_REQUIRED</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Technical field Accepted status for Coverage --></label>
+        <name>TECH_COV_STATUS_ACCEPTED</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Technical field Accepted with Exclusion --></label>
+        <name>TECH_COV_STATUS_ACCEPTED_EXCLUSION</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Technical field Accepted with Exclusion and Extra Premium for Coverage --></label>
+        <name>TECH_COV_STATUS_ACCEPTED_EXCLUSION_EXTRA_PREMIUM</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Technical field Accepted with Extra Premium status for Coverage --></label>
+        <name>TECH_COV_STATUS_ACCEPTED_EXTRA_PREMIUM</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Technical field Rejected status for Coverage --></label>
+        <name>TECH_COV_STATUS_REJECTED</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TECH_COV_TYPE_CRITICAL_ILLNESS --></label>
+        <name>TECH_COV_TYPE_CRITICAL_ILLNESS</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TECH_COV_TYPE_DC --></label>
+        <name>TECH_COV_TYPE_DC</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TECH_COV_TYPE_DCPTIA --></label>
+        <name>TECH_COV_TYPE_DCPTIA</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TECH_COV_TYPE_HOSPITALIZATION --></label>
+        <name>TECH_COV_TYPE_HOSPITALIZATION</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TECH_COV_TYPE_INVALAERAS --></label>
+        <name>TECH_COV_TYPE_INVALAERAS</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TECH_COV_TYPE_IP --></label>
+        <name>TECH_COV_TYPE_IP</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TECH_COV_TYPE_IT --></label>
+        <name>TECH_COV_TYPE_IT</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TECH_COV_TYPE_ITD --></label>
+        <name>TECH_COV_TYPE_ITD</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TECH_COV_TYPE_LONG_TERM_CARE --></label>
+        <name>TECH_COV_TYPE_LONG_TERM_CARE</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TECH_COV_TYPE_PTIA --></label>
+        <name>TECH_COV_TYPE_PTIA</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- technique field for Delegated pathologies --></label>
+        <name>TECH_DELEGATED_PATHOLOGIE</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Technical Label (don&apos;t translate) - Declaration of Good Health --></label>
+        <name>TECH_DHG</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Type of Distributor CFF --></label>
+        <name>TECH_DISTRIBUTOR_TYPE_CFF</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Type of Distributor --></label>
+        <name>TECH_DISTRIBUTOR_TYPE_FRENCH</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Technical Label (don&apos;t translate) - Detailed Medical Questionnaire --></label>
+        <name>TECH_DMQ</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Techincal status DMS status --></label>
+        <name>TECH_DMS_QUESTIONNAIRE_STATUS_CANCELLED</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Techincal status DMS status --></label>
+        <name>TECH_DMS_QUESTIONNAIRE_STATUS_FINISHED</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Technical status DMS status --></label>
+        <name>TECH_DMS_QUESTIONNAIRE_STATUS_INCOMPLETE</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Techincal status DMS status --></label>
+        <name>TECH_DMS_QUESTIONNAIRE_STATUS_NOT_STARTED</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Techincal status DMS status --></label>
+        <name>TECH_DMS_QUESTIONNAIRE_STATUS_OFFLINE</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Techincal status DMS status --></label>
+        <name>TECH_DMS_QUESTIONNAIRE_STATUS_WAITING_FOR_SIGNATURE</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TECH_DMS_URL --></label>
+        <name>TECH_DMS_URL</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Document picklist value of Detailed Medical Questionnaire --></label>
+        <name>TECH_DOCUMENT_TYPE_DMQ</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Document picklist value of Simple Medical Questionnaire --></label>
+        <name>TECH_DOCUMENT_TYPE_SMQ</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Addition Information Document Type --></label>
+        <name>TECH_DOC_TYPE_ADI</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TECH_DOC_TYPE_ADI0 --></label>
+        <name>TECH_DOC_TYPE_ADI0</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TECH_DOC_TYPE_ADI1 --></label>
+        <name>TECH_DOC_TYPE_ADI1</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Acceptance Letter Document Type --></label>
+        <name>TECH_DOC_TYPE_AL</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- BA Document Type --></label>
+        <name>TECH_DOC_TYPE_BA</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Ecretement Document Type --></label>
+        <name>TECH_DOC_TYPE_ECRET</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TECH_DOC_TYPE_ME --></label>
+        <name>TECH_DOC_TYPE_ME</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Medical Questionnaire Document Type --></label>
+        <name>TECH_DOC_TYPE_MQ</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Notification Letter Acceptance Type --></label>
+        <name>TECH_DOC_TYPE_NL</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- SAA Document Type --></label>
+        <name>TECH_DOC_TYPE_SAA</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Id of MQ remainder email template --></label>
+        <name>TECH_EMAIL_TEMPLATE_ID_MQ_REMINDER</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Id of MQ remainder email template for PoS --></label>
+        <name>TECH_EMAIL_TEMPLATE_ID_MQ_REMINDER_POS</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Id of SAA remainder email template --></label>
+        <name>TECH_EMAIL_TEMPLATE_ID_SAA_REMINDER</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Id of SAA remainder email template for PoS --></label>
+        <name>TECH_EMAIL_TEMPLATE_ID_SAA_REMINDER_POS</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Email Template for Password in Applicant Space --></label>
+        <name>TECH_EMAIL_TEMPLATE_PP_NEW_PASSWORD_APPLICANT_SPACE</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- DMS Endpoint --></label>
+        <name>TECH_ENDPOINT_DMS</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Internal Endpoint --></label>
+        <name>TECH_ENDPOINT_INTERNAL</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Name of the &quot;ContractDistributor Quotation Gen Field&quot; object for Address field u --></label>
+        <name>TECH_GENERIC_FIELD_ADDRESS_NAME</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Name of the &quot;ContractDistributor Quotation Gen Field&quot; object for APE Rate field --></label>
+        <name>TECH_GENERIC_FIELD_APE_RATE_NAME</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Generci field APE Rate Six Month Gift Value --></label>
+        <name>TECH_GENERIC_FIELD_APE_RATE_SIXMONTHGIFT_VALUE</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Name of the &quot;ContractDistributor Quotation Gen Field&quot; object for Beneficiary fie --></label>
+        <name>TECH_GENERIC_FIELD_BENEFICIARY_NAME</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Name of the &quot;ContractDistributor Quotation Gen Field&quot; object for ChildrenNumber --></label>
+        <name>TECH_GENERIC_FIELD_CHILDRE_NUMBER_NAME</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Name of the &quot;ContractDistributor Quotation Gen Field&quot; object for City field used --></label>
+        <name>TECH_GENERIC_FIELD_CITY_NAME</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Name of the &quot;ContractDistributor Quotation Gen Field&quot; object for FAleas field us --></label>
+        <name>TECH_GENERIC_FIELD_FALEAS_NAME</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Name of the &quot;ContractDistributor Quotation Gen Field&quot; object for FSL field used --></label>
+        <name>TECH_GENERIC_FIELD_FSL_NAME</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Name of the &quot;ContractDistributor Quotation Gen Field&quot; object for FSR field used --></label>
+        <name>TECH_GENERIC_FIELD_FSR_NAME</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Name of the &quot;ContractDistributor Quotation Gen Field&quot; object for IntermediatIde --></label>
+        <name>TECH_GENERIC_FIELD_INTERMEDIATE_IDENTITY_NAME</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Name of the &quot;ContractDistributor Quotation Gen Field&quot; object for LaborContract f --></label>
+        <name>TECH_GENERIC_FIELD_LABOR_CONTRACT_NAME</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Name of the &quot;ContractDistributor Quotation Gen Field&quot; object for MaritalStatus f --></label>
+        <name>TECH_GENERIC_FIELD_MARITAL_STATUS_NAME</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Name of the &quot;ContractDistributor Quotation Gen Field&quot; object for Nationality fie --></label>
+        <name>TECH_GENERIC_FIELD_NATIONALITY_NAME</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Name of the &quot;ContractDistributor Quotation Gen Field&quot; object for NumOrias field --></label>
+        <name>TECH_GENERIC_FIELD_NUMORIAS_NAME</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Name of the &quot;ContractDistributor Quotation Gen Field&quot; object for ProfessionalSta --></label>
+        <name>TECH_GENERIC_FIELD_PROFESSIONAL_STATUS_NAME</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TECH_GENERIC_FIELD_QUALITY_BORROWER_VALUE --></label>
+        <name>TECH_GENERIC_FIELD_QUALITY_BORROWER_VALUE</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TECH_GENERIC_FIELD_QUALITY_COBORROWER_VALUE --></label>
+        <name>TECH_GENERIC_FIELD_QUALITY_COBORROWER_VALUE</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TECH_GENERIC_FIELD_QUALITY_DEPOSIT1_VALUE --></label>
+        <name>TECH_GENERIC_FIELD_QUALITY_DEPOSIT1_VALUE</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TECH_GENERIC_FIELD_QUALITY_DEPOSIT2_VALUE --></label>
+        <name>TECH_GENERIC_FIELD_QUALITY_DEPOSIT2_VALUE</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TECH_GENERIC_FIELD_QUALITY_OTHER_VALUE --></label>
+        <name>TECH_GENERIC_FIELD_QUALITY_OTHER_VALUE</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Name of the &quot;ContractDistributor Quotation Gen Field&quot; object for Rate field used --></label>
+        <name>TECH_GENERIC_FIELD_RATE_NAME</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Name of the &quot;ContractDistributor Quotation Gen Field&quot; object for ZipCode field u --></label>
+        <name>TECH_GENERIC_FIELD_ZIPCODE_NAME</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- id of the inscription organization-wide Adress --></label>
+        <name>TECH_INSCRIPTION_ORGWIDE_ID</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Tech picklist value for the internet quotation printing component Italy --></label>
+        <name>TECH_INTERNET_QUOTATION_TEMPLATE_ITALY</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Tech picklist value for the internet quotation printing component asia --></label>
+        <name>TECH_INTERNET_QUOTATION_TEMPLATE_STANDARD</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TECH_IN_ANALYSIS --></label>
+        <name>TECH_IN_ANALYSIS</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TECH_LOAN_AMORTIZINGTYPE_BRIDGINGLOAN --></label>
+        <name>TECH_LOAN_AMORTIZINGTYPE_BRIDGINGLOAN</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TECH_LOAN_AMORTIZINGTYPE_INFINE --></label>
+        <name>TECH_LOAN_AMORTIZINGTYPE_INFINE</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TECH_LOAN_AMORTIZINGTYPE_REDEEMABLE --></label>
+        <name>TECH_LOAN_AMORTIZINGTYPE_REDEEMABLE</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TECH LOAN AMORTIZINGTYPE RELAIS --></label>
+        <name>TECH_LOAN_AMORTIZINGTYPE_RELAIS</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TECH_LOAN_PERIODICITY_ANNUAL --></label>
+        <name>TECH_LOAN_PERIODICITY_ANNUAL</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TECH_LOAN_PERIODICITY_BIANNUAL --></label>
+        <name>TECH_LOAN_PERIODICITY_BIANNUAL</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TECH_LOAN_PERIODICITY_MONTHLY --></label>
+        <name>TECH_LOAN_PERIODICITY_MONTHLY</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Technical value of periodicity (Don&apos;t translate) --></label>
+        <name>TECH_LOAN_PERIODICITY_OTHER</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TECH_LOAN_PERIODICITY_QUATERLY --></label>
+        <name>TECH_LOAN_PERIODICITY_QUATERLY</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TECH_LOAN_PERIODICITY_UNIQUE --></label>
+        <name>TECH_LOAN_PERIODICITY_UNIQUE</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Technical value of periodicity (Don&apos;t translate) --></label>
+        <name>TECH_LOAN_PERIODICITY_UNIQUE_ONLY</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TECH LOAN PURPOSE PROFESSIONAL --></label>
+        <name>TECH_LOAN_PURPOSE_PROFESSIONAL</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TECH LOAN PURPOSE REAL ESTATE --></label>
+        <name>TECH_LOAN_PURPOSE_REAL_ESTATE</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Technical Loan status - Accepted --></label>
+        <name>TECH_LOAN_STATUS_ACCEPTED</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Technical Loan status - No status --></label>
+        <name>TECH_LOAN_STATUS_NO_STATUS</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Technical Loan status - Rejected --></label>
+        <name>TECH_LOAN_STATUS_REJECTED</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TECH_LOAN_TYPE_ACCESS --></label>
+        <name>TECH_LOAN_TYPE_ACCESS</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TECH_LOAN_TYPE_EDFACCESSION --></label>
+        <name>TECH_LOAN_TYPE_EDFACCESSION</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TECH_LOAN_TYPE_EDFINVESTOR --></label>
+        <name>TECH_LOAN_TYPE_EDFINVESTOR</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TECH_LOAN_TYPE_INVESTOR --></label>
+        <name>TECH_LOAN_TYPE_INVESTOR</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TECH_LOAN_TYPE_LIZEALEACCESSION --></label>
+        <name>TECH_LOAN_TYPE_LIZEALEACCESSION</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TECH_LOAN_TYPE_LIZEALEINVESTOR --></label>
+        <name>TECH_LOAN_TYPE_LIZEALEINVESTOR</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TECH_LOAN_TYPE_NOTALLOCATEDACCESSION --></label>
+        <name>TECH_LOAN_TYPE_NOTALLOCATEDACCESSION</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TECH_LOAN_TYPE_NOTALLOCATEDINFINE --></label>
+        <name>TECH_LOAN_TYPE_NOTALLOCATEDINFINE</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TECH_LOAN_TYPE_NOTALLOCATEDINVESTOR --></label>
+        <name>TECH_LOAN_TYPE_NOTALLOCATEDINVESTOR</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TECH_LOAN_TYPE_NULLRATEPLUSCREDIT --></label>
+        <name>TECH_LOAN_TYPE_NULLRATEPLUSCREDIT</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TECH_LOAN_TYPE_OPENINGOFMORTGAGELOAN --></label>
+        <name>TECH_LOAN_TYPE_OPENINGOFMORTGAGELOAN</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TECH LOAN TYPE PTZ --></label>
+        <name>TECH_LOAN_TYPE_PTZ</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- ss --></label>
+        <name>TECH_MQ_CANCELLATION_DAYS</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Case 1 of MS Mode --></label>
+        <name>TECH_MS_MODE_CASE_1</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Case 2 of MS Mode --></label>
+        <name>TECH_MS_MODE_CASE_2</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Case 3 of MS Mode --></label>
+        <name>TECH_MS_MODE_CASE_3</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Case 4 of MS Mode --></label>
+        <name>TECH_MS_MODE_CASE_4</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Case 5 of MS Mode --></label>
+        <name>TECH_MS_MODE_CASE_5</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Technical field (Don&apos;t translate) record type of a quotation --></label>
+        <name>TECH_MULTI_LOANS_RECORD_TYPE</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Tab name of My Action Tab in Applicant Space --></label>
+        <name>TECH_MY_ACTIONS_TAB_NAME</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- OnlineMQ technical picklist value for no answer --></label>
+        <name>TECH_ONLINEMQ_ANSWER_PICKLIST_NO</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- OnlineMQ technical picklist value for yes answer --></label>
+        <name>TECH_ONLINEMQ_ANSWER_PICKLIST_YES</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Partner Portal URL --></label>
+        <name>TECH_PARTNER_PORTAL_BASE_URL</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TECH_PASS_VALUE --></label>
+        <name>TECH_PASS_VALUE</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TECH_PENDING_ADD_INFOR --></label>
+        <name>TECH_PENDING_ADD_INFOR</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Value in picklist when there is a pending ADI in application process --></label>
+        <name>TECH_PENDING_DOC_STATUS_ADI</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Value in picklist when there is a pending SAA (=BPA) in application process --></label>
+        <name>TECH_PENDING_DOC_STATUS_SAA</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TECH_PICKLIST_INDEX_ANALYSIS --></label>
+        <name>TECH_PICKLIST_INDEX_ANALYSIS</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TECH PICKLIST INDEX REJECTED --></label>
+        <name>TECH_PICKLIST_INDEX_REJECTED</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TECH_QUALITE_CAUTION_1 --></label>
+        <name>TECH_QUALITE_CAUTION_1</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TECH_QUALITE_CAUTION_2 --></label>
+        <name>TECH_QUALITE_CAUTION_2</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TECH_QUESTIONNAIRE_DECISION_ DECISION_MADE --></label>
+        <name>TECH_QUESTIONNAIRE_DECISION_DECISION_MADE</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TECH_QUESTIONNAIRE_DECISION_ MEDICAL_ADVISER_OPINION --></label>
+        <name>TECH_QUESTIONNAIRE_DECISION_MEDICAL_ADVISER_OPINION</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TECH_QUESTIONNAIRE_DECISION_ REQUEST_DRC --></label>
+        <name>TECH_QUESTIONNAIRE_DECISION_REQUEST_DRC</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TECH_QUESTIONNAIRE_DECISION_ REQUEST_ME --></label>
+        <name>TECH_QUESTIONNAIRE_DECISION_REQUEST_ME</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Technical Label (don&apos;t translate) - Complementary Question Type --></label>
+        <name>TECH_QUES_TYPE_COMPLEMENTARY</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Technical Label (don&apos;t translate) - Master Question Type --></label>
+        <name>TECH_QUES_TYPE_MASTER</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Don&apos;t translate: Number of rows per page in quotation list view --></label>
+        <name>TECH_QUOTATION_NUM_QUOT_PER_PAGE</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Creditor Quotation Only Profile --></label>
+        <name>TECH_QUOTATION_PROFILE</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- custom label for the quotation report --></label>
+        <name>TECH_QUOTATION_REPORT_ID</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Template ID of quotation client template --></label>
+        <name>TECH_QUOTATION_TEMPLATE_CLIENT</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Template ID of quotation distributor template --></label>
+        <name>TECH_QUOTATION_TEMPLATE_DISTRIBUTOR</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Record limit to prevent the error in My History --></label>
+        <name>TECH_RECORD_LIMIT_APPLICATION_HISTORY</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Technical field (Don&apos;t translate) record type of a quotation --></label>
+        <name>TECH_SINGLE_LOAN_RECORD_TYPE</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Technical Label (don&apos;t translate) - Simple Medical Questionnaire --></label>
+        <name>TECH_SMQ</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Value of the SOAP API --></label>
+        <name>TECH_SOAP_API_PATH</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Id of the link of standard report --></label>
+        <name>TECH_STANDARD_REPORT_ID_LINK</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Type of Static Document is Notice --></label>
+        <name>TECH_STATIC_DOC_TYPE_NOTICE</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TECH_STATUS --></label>
+        <name>TECH_STATUS</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Status API Name of Application --></label>
+        <name>TECH_STATUS_API_NAME</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TECH_SUBCOV_ADI_DRC01 --></label>
+        <name>TECH_SUBCOV_ADI_DRC01</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TECH_SUBCOV_ADI_DRC02 --></label>
+        <name>TECH_SUBCOV_ADI_DRC02</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TECH_SUBCOV_ADI_DRC03 --></label>
+        <name>TECH_SUBCOV_ADI_DRC03</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TECH_SUBCOV_ADI_DRC04 --></label>
+        <name>TECH_SUBCOV_ADI_DRC04</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TECH_SUBCOV_ADI_DRC05 --></label>
+        <name>TECH_SUBCOV_ADI_DRC05</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TECH_SUBCOV_ADI_DRC06 --></label>
+        <name>TECH_SUBCOV_ADI_DRC06</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TECH_SUBCOV_ADI_DRC07 --></label>
+        <name>TECH_SUBCOV_ADI_DRC07</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TECH_SUBCOV_ADI_DRC08 --></label>
+        <name>TECH_SUBCOV_ADI_DRC08</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TECH_SUBCOV_ADI_DRC09 --></label>
+        <name>TECH_SUBCOV_ADI_DRC09</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TECH_SUBCOV_ADI_DRC10 --></label>
+        <name>TECH_SUBCOV_ADI_DRC10</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TECH_SUBCOV_ADI_DRC11 --></label>
+        <name>TECH_SUBCOV_ADI_DRC11</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TECH_SUBCOV_ADI_DRC12 --></label>
+        <name>TECH_SUBCOV_ADI_DRC12</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TECH_SUBCOV_ADI_DRC13 --></label>
+        <name>TECH_SUBCOV_ADI_DRC13</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TECH_SUBCOV_ADI_DRC14 --></label>
+        <name>TECH_SUBCOV_ADI_DRC14</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TECH_SUBCOV_ADI_DRC15 --></label>
+        <name>TECH_SUBCOV_ADI_DRC15</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TECH_SUBCOV_ADI_DRC16 --></label>
+        <name>TECH_SUBCOV_ADI_DRC16</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TECH_SUBCOV_ADI_DRC17 --></label>
+        <name>TECH_SUBCOV_ADI_DRC17</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TECH_SUBCOV_ADI_DRC18 --></label>
+        <name>TECH_SUBCOV_ADI_DRC18</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TECH_SUBCOV_ADI_DRC19 --></label>
+        <name>TECH_SUBCOV_ADI_DRC19</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TECH_SUBCOV_ADI_DRC20 --></label>
+        <name>TECH_SUBCOV_ADI_DRC20</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TECH_SUBCOV_ADI_DRC21 --></label>
+        <name>TECH_SUBCOV_ADI_DRC21</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TECH_SUBCOV_ADI_DRC22 --></label>
+        <name>TECH_SUBCOV_ADI_DRC22</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TECH_SUBCOV_ADI_DRC23 --></label>
+        <name>TECH_SUBCOV_ADI_DRC23</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TECH_SUBCOV_ADI_DRC24 --></label>
+        <name>TECH_SUBCOV_ADI_DRC24</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TECH_SUBCOV_ADI_DRC25 --></label>
+        <name>TECH_SUBCOV_ADI_DRC25</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TECH_SUBCOV_ADI_DRC26 --></label>
+        <name>TECH_SUBCOV_ADI_DRC26</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TECH_SUBCOV_IT_ACCEPTED_GIS_ACCEPTED --></label>
+        <name>TECH_SUBCOV_IT_ACCEPTED_GIS_ACCEPTED</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TECH_SUBCOV_IT_ACCEPTED_GIS_REFUSED --></label>
+        <name>TECH_SUBCOV_IT_ACCEPTED_GIS_REFUSED</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TECH_SUBCOV_IT_REFUSED_GIS_ACCEPTED --></label>
+        <name>TECH_SUBCOV_IT_REFUSED_GIS_ACCEPTED</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TECH_SUBCOV_IT_REFUSED_GIS_REFUSED --></label>
+        <name>TECH_SUBCOV_IT_REFUSED_GIS_REFUSED</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Technical field Rate Type for Subcribed Coverage --></label>
+        <name>TECH_SUBCOV_RATE_TYPE_AMOUNT</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Technical field Percent Rate Type for Subscribed Coverage --></label>
+        <name>TECH_SUBCOV_RATE_TYPE_PERCENT</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TECH_SUBCOV_RESERVES_0100 --></label>
+        <name>TECH_SUBCOV_RESERVES_0100</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TECH_SUBCOV_RESERVES_0200 --></label>
+        <name>TECH_SUBCOV_RESERVES_0200</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TECH_SUBCOV_RESERVES_0300 --></label>
+        <name>TECH_SUBCOV_RESERVES_0300</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TECH_SUBCOV_RESERVES_0403 --></label>
+        <name>TECH_SUBCOV_RESERVES_0403</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TECH_SUBCOV_RESERVES_0500 --></label>
+        <name>TECH_SUBCOV_RESERVES_0500</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TECH_SUBCOV_RESERVES_0503 --></label>
+        <name>TECH_SUBCOV_RESERVES_0503</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TECH_SUBCOV_RESERVES_0504 --></label>
+        <name>TECH_SUBCOV_RESERVES_0504</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TECH_SUBCOV_RESERVES_0600 --></label>
+        <name>TECH_SUBCOV_RESERVES_0600</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TECH_SUBCOV_RESERVES_0601 --></label>
+        <name>TECH_SUBCOV_RESERVES_0601</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TECH_SUBCOV_RESERVES_0604 --></label>
+        <name>TECH_SUBCOV_RESERVES_0604</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TECH_SUBCOV_RESERVES_0605 --></label>
+        <name>TECH_SUBCOV_RESERVES_0605</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TECH_SUBCOV_RESERVES_0700 --></label>
+        <name>TECH_SUBCOV_RESERVES_0700</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TECH_SUBCOV_RESERVES_0701 --></label>
+        <name>TECH_SUBCOV_RESERVES_0701</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TECH_SUBCOV_RESERVES_0703 --></label>
+        <name>TECH_SUBCOV_RESERVES_0703</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TECH_SUBCOV_RESERVES_0705 --></label>
+        <name>TECH_SUBCOV_RESERVES_0705</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TECH_SUBCOV_RESERVES_0800 --></label>
+        <name>TECH_SUBCOV_RESERVES_0800</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TECH_SUBCOV_RESERVES_0805 --></label>
+        <name>TECH_SUBCOV_RESERVES_0805</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TECH_SUBCOV_RESERVES_0806 --></label>
+        <name>TECH_SUBCOV_RESERVES_0806</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TECH_SUBCOV_RESERVES_0807 --></label>
+        <name>TECH_SUBCOV_RESERVES_0807</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TECH_SUBCOV_RESERVES_0905 --></label>
+        <name>TECH_SUBCOV_RESERVES_0905</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TECH_SUBCOV_RESERVES_1000 --></label>
+        <name>TECH_SUBCOV_RESERVES_1000</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TECH_SUBCOV_RESERVES_1005 --></label>
+        <name>TECH_SUBCOV_RESERVES_1005</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TECH_SUBCOV_RESERVES_1009 --></label>
+        <name>TECH_SUBCOV_RESERVES_1009</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TECH_SUBCOV_RESERVES_1100 --></label>
+        <name>TECH_SUBCOV_RESERVES_1100</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TECH_SUBCOV_RESERVES_1101 --></label>
+        <name>TECH_SUBCOV_RESERVES_1101</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TECH_SUBCOV_RESERVES_1200 --></label>
+        <name>TECH_SUBCOV_RESERVES_1200</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TECH_SUBCOV_RESERVES_1300 --></label>
+        <name>TECH_SUBCOV_RESERVES_1300</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TECH_SUBCOV_RESERVES_1402 --></label>
+        <name>TECH_SUBCOV_RESERVES_1402</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TECH_SUBCOV_RESERVES_1500 --></label>
+        <name>TECH_SUBCOV_RESERVES_1500</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TECH_SUBCOV_RESERVES_1600 --></label>
+        <name>TECH_SUBCOV_RESERVES_1600</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TECH_SUBCOV_RESERVES_1601 --></label>
+        <name>TECH_SUBCOV_RESERVES_1601</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TECH_SUBCOV_RESERVES_1602 --></label>
+        <name>TECH_SUBCOV_RESERVES_1602</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TECH_SUBCOV_RESERVES_1605 --></label>
+        <name>TECH_SUBCOV_RESERVES_1605</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TECH_SUBCOV_RESERVES_1608 --></label>
+        <name>TECH_SUBCOV_RESERVES_1608</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TECH_SUBCOV_RESERVES_1611 --></label>
+        <name>TECH_SUBCOV_RESERVES_1611</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TECH_SUBCOV_RESERVES_1614 --></label>
+        <name>TECH_SUBCOV_RESERVES_1614</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TECH_SUBCOV_RESERVES_1617 --></label>
+        <name>TECH_SUBCOV_RESERVES_1617</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TECH_SUBCOV_RESERVES_1618 --></label>
+        <name>TECH_SUBCOV_RESERVES_1618</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TECH_SUBCOV_RESERVES_1619 --></label>
+        <name>TECH_SUBCOV_RESERVES_1619</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TECH_SUBCOV_RESERVES_1620 --></label>
+        <name>TECH_SUBCOV_RESERVES_1620</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TECH_SUBCOV_RESERVES_1700² --></label>
+        <name>TECH_SUBCOV_RESERVES_1700</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TECH_SUBCOV_RESERVES_1800 --></label>
+        <name>TECH_SUBCOV_RESERVES_1800</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TECH_SUBCOV_RESERVES_1801 --></label>
+        <name>TECH_SUBCOV_RESERVES_1801</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TECH_SUBCOV_RESERVES_1802 --></label>
+        <name>TECH_SUBCOV_RESERVES_1802</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TECH_SUBCOV_RESERVES_2000 --></label>
+        <name>TECH_SUBCOV_RESERVES_2000</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TECH_SUBCOV_RESERVES_2100 --></label>
+        <name>TECH_SUBCOV_RESERVES_2100</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TECH_SUBCOV_RESERVES_2101 --></label>
+        <name>TECH_SUBCOV_RESERVES_2101</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TECH_SUBCOV_RESERVES_2102 --></label>
+        <name>TECH_SUBCOV_RESERVES_2102</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TECH_SUBCOV_RESERVES_2103 --></label>
+        <name>TECH_SUBCOV_RESERVES_2103</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TECH_SUBCOV_RESERVES_2400 --></label>
+        <name>TECH_SUBCOV_RESERVES_2400</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TECH_SUBCOV_RESERVES_2401 --></label>
+        <name>TECH_SUBCOV_RESERVES_2401</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TECH_SUBCOV_RESERVES_2500 --></label>
+        <name>TECH_SUBCOV_RESERVES_2500</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TECH_SUBCOV_RESERVES_2501 --></label>
+        <name>TECH_SUBCOV_RESERVES_2501</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TECH_SUBCOV_RESERVES_2600 --></label>
+        <name>TECH_SUBCOV_RESERVES_2600</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TECH_SUBCOV_RESERVES_3000 --></label>
+        <name>TECH_SUBCOV_RESERVES_3000</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TECH_SUBCOV_RESERVES_3002 --></label>
+        <name>TECH_SUBCOV_RESERVES_3002</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TECH_SUBCOV_RESERVES_3003 --></label>
+        <name>TECH_SUBCOV_RESERVES_3003</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TECH_SUBCOV_RESERVES_3200 --></label>
+        <name>TECH_SUBCOV_RESERVES_3200</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TECH_SUBCOV_RESERVES_3201 --></label>
+        <name>TECH_SUBCOV_RESERVES_3201</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TECH_SUBCOV_RESERVES_3300 --></label>
+        <name>TECH_SUBCOV_RESERVES_3300</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TECH_SUBCOV_RESERVES_3301 --></label>
+        <name>TECH_SUBCOV_RESERVES_3301</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TECH_SUBCOV_RESERVES_3302 --></label>
+        <name>TECH_SUBCOV_RESERVES_3302</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TECH_SUBCOV_RESERVES_3303 --></label>
+        <name>TECH_SUBCOV_RESERVES_3303</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TECH_SUBCOV_RESERVES_3400 --></label>
+        <name>TECH_SUBCOV_RESERVES_3400</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TECH_SUBCOV_RESERVES_3401 --></label>
+        <name>TECH_SUBCOV_RESERVES_3401</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Creditor System Admin Profile --></label>
+        <name>TECH_SYSTEM_ADMIN_PROFILE</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Acceptance Letter Sub Type --></label>
+        <name>TECH_TASK_ACCEPTANCE_LETTER_SUB_TYPE</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Task is created for Applicant --></label>
+        <name>TECH_TASK_APPLICANT_TYPE</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TECH_TASK_BA_SUB_TYPE --></label>
+        <name>TECH_TASK_BA_SUB_TYPE</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- DRC SubType --></label>
+        <name>TECH_TASK_DRC_SUB_TYPE</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TECH_TASK_ECRETEMENT_SUB_TYPE --></label>
+        <name>TECH_TASK_ECRETEMENT_SUB_TYPE</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TECH_TASK_MAO_SUB_TYPE --></label>
+        <name>TECH_TASK_MAO_SUB_TYPE</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Medical Questionnaire Record Type for Task --></label>
+        <name>TECH_TASK_MQ_RECORDTYPE</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TECH_TASK_MQ_SUB_TYPE --></label>
+        <name>TECH_TASK_MQ_SUB_TYPE</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TECH_TASK_MR_SUB_TYPE --></label>
+        <name>TECH_TASK_MR_SUB_TYPE</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Notification Letter Sub Type --></label>
+        <name>TECH_TASK_NOTIFICATION_LETTER_SUB_TYPE</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TECH_TASK_POS_BA_SUB_TYPE --></label>
+        <name>TECH_TASK_POS_BA_SUB_TYPE</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TECH_TASK_POS_MADE_DECISION_SUB_TYPE --></label>
+        <name>TECH_TASK_POS_MADE_DECISION_SUB_TYPE</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TECH_TASK_POS_MQ_SUB_TYPE --></label>
+        <name>TECH_TASK_POS_MQ_SUB_TYPE</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TECH_TASK_POS_SAA_SUB_TYPE --></label>
+        <name>TECH_TASK_POS_SAA_SUB_TYPE</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Task is created for POS --></label>
+        <name>TECH_TASK_POS_TYPE</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TECH_TASK_SAA_SUB_TYPE --></label>
+        <name>TECH_TASK_SAA_SUB_TYPE</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TECH_TASK_STATUS_CLOSED --></label>
+        <name>TECH_TASK_STATUS_CLOSED</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TECH_TASK_STATUS_IN_PROGRESS --></label>
+        <name>TECH_TASK_STATUS_IN_PROGRESS</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TECH_TASK_STATUS_NOT_STARTED --></label>
+        <name>TECH_TASK_STATUS_NOT_STARTED</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Subject for MQ to complete --></label>
+        <name>TECH_TASK_SUBJECT_MQ</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Subject for SAA to sign --></label>
+        <name>TECH_TASK_SUBJECT_SAA</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TECH_TEMPLATE_ACCEPTANCE_LETTER_FR_ID --></label>
+        <name>TECH_TEMPLATE_ACCEPTANCE_LETTER_FR_ID</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TECH_TEMPLATE_ADI0_ID --></label>
+        <name>TECH_TEMPLATE_ADI0_ID</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TECH_TEMPLATE_ADI1_ID --></label>
+        <name>TECH_TEMPLATE_ADI1_ID</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TECH_TEMPLATE_ADI_ID --></label>
+        <name>TECH_TEMPLATE_ADI_ID</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TECH_TEMPLATE_BA_NR_ENGLISH_ID --></label>
+        <name>TECH_TEMPLATE_BA_NR_ENGLISH_ID</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TECH_TEMPLATE_BA_NR_ITALIAN_ID --></label>
+        <name>TECH_TEMPLATE_BA_NR_ITALIAN_ID</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TECH_TEMPLATE_BA_SENIOR_ID --></label>
+        <name>TECH_TEMPLATE_BA_SENIOR_ID</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Id of the conga template for BPA --></label>
+        <name>TECH_TEMPLATE_BPA_ID</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TECH_TEMPLATE_CONTRACT_4979_4980_8195_ID --></label>
+        <name>TECH_TEMPLATE_CONTRACT_4979_4980_8195_ID</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TECH_TEMPLATE_CONTRACT_4979_ID --></label>
+        <name>TECH_TEMPLATE_CONTRACT_4979_ID</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TECH_TEMPLATE_CONTRACT_LARGE_CAPITAL_ID --></label>
+        <name>TECH_TEMPLATE_CONTRACT_LARGE_CAPITAL_ID</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Id of the conga template for Ecretement --></label>
+        <name>TECH_TEMPLATE_ECRETEMENT_ID</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TECH_TEMPLATE_MAIL_APPLICANT_AL --></label>
+        <name>TECH_TEMPLATE_MAIL_APPLICANT_AL</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TECH_TEMPLATE_MAIL_APPLICANT_BA --></label>
+        <name>TECH_TEMPLATE_MAIL_APPLICANT_BA</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TECH_TEMPLATE_MAIL_APPLICANT_DRC --></label>
+        <name>TECH_TEMPLATE_MAIL_APPLICANT_DRC</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TECH_TEMPLATE_MAIL_APPLICANT_ECRETEMENT --></label>
+        <name>TECH_TEMPLATE_MAIL_APPLICANT_ECRETEMENT</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TECH_TEMPLATE_MAIL_APPLICANT_MAO --></label>
+        <name>TECH_TEMPLATE_MAIL_APPLICANT_MAO</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TECH_TEMPLATE_MAIL_APPLICANT_MQ --></label>
+        <name>TECH_TEMPLATE_MAIL_APPLICANT_MQ</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TECH_TEMPLATE_MAIL_APPLICANT_MR --></label>
+        <name>TECH_TEMPLATE_MAIL_APPLICANT_MR</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TECH_TEMPLATE_MAIL_APPLICANT_NL --></label>
+        <name>TECH_TEMPLATE_MAIL_APPLICANT_NL</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TECH_TEMPLATE_MAIL_APPLICANT_SAA --></label>
+        <name>TECH_TEMPLATE_MAIL_APPLICANT_SAA</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Id of the conga template for Notification Letter --></label>
+        <name>TECH_TEMPLATE_NL_ID</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TECH_TEMPLATE_PHNA_ID --></label>
+        <name>TECH_TEMPLATE_PHNA_ID</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Id of quotation CFF CD conga template, do not translate --></label>
+        <name>TECH_TEMPLATE_QUOTATION_CFF_CD_ID</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Id of quotation CFF Intermédiaire conga template, do not translate --></label>
+        <name>TECH_TEMPLATE_QUOTATION_CFF_ID</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TECH_TRANSLATED --></label>
+        <name>TECH_TRANSLATED</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Universign user account --></label>
+        <name>TECH_UniversignPassword</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Universign user account --></label>
+        <name>TECH_UniversignUser</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Universign url to the api --></label>
+        <name>TECH_UniversignWsURL</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- 1000 days --></label>
+        <name>TECH_VALIDITY_PERIOD_1000_DAYS</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- 120 days --></label>
+        <name>TECH_VALIDITY_PERIOD_120_DAYS</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- 180 days --></label>
+        <name>TECH_VALIDITY_PERIOD_180_DAYS</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- 30 days --></label>
+        <name>TECH_VALIDITY_PERIOD_30_DAYS</name>
+    </customLabels>
+    <customLabels>
+        <label>Veuillez trouver ci-joint votre devis en ligne.&lt;br /&gt;&lt;br /&gt;
+En vous souhaitant, une bonne réception&lt;br /&gt;
+Bien Cordialement.&lt;br /&gt;
+L’équipe Web Creditor&lt;br /&gt;&lt;br /&gt;</label>
+        <name>TEMPLATE_QUOTATION_BODY</name>
+    </customLabels>
+    <customLabels>
+        <label>Votre devis en ligne</label>
+        <name>TEMPLATE_QUOTATION_TITLE</name>
+    </customLabels>
+    <customLabels>
+        <label>Trop de garanties selectionnées</label>
+        <name>TOO_MANY_COVERAGE_SELECTED</name>
+    </customLabels>
+    <customLabels>
+        <label>Montant total annuel</label>
+        <name>TOTAL_LOAN_AMOUNT</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Record type: &quot;Third party administrator&quot; --></label>
+        <name>TPA_ACCOUNT_RECORD_TYPE</name>
+    </customLabels>
+    <customLabels>
+        <label>Délégataire de gestion</label>
+        <name>TPA_ACCOUNT_RECORD_TYPE_NAME</name>
+    </customLabels>
+    <customLabels>
+        <label>Impossible d&apos;envoyer le document à la plateforme Universign. Le document est endommagé ou corrompu.</label>
+        <name>UNIVERSIGN_CORRUPTED_DOC</name>
+    </customLabels>
+    <customLabels>
+        <label>Votre document a été signé avec succès!</label>
+        <name>UNIVERSIGN_DOCUMENT_SIGNED</name>
+    </customLabels>
+    <customLabels>
+        <label>Votre document est en cours de génération... Merci de patienter quelques secondes. Vous serez redirigé vers la plateforme de signature électronique.</label>
+        <name>UNIVERSIGN_GENERATING_CONGA_REDERICTION_UNIVERSIGN</name>
+    </customLabels>
+    <customLabels>
+        <label>Votre document n&apos;est pas signé. Le processus de signature électronique n&apos;est pas terminée.</label>
+        <name>UNIVERSIGN_NOT_COMPLETED</name>
+    </customLabels>
+    <customLabels>
+        <label>Identifiant</label>
+        <name>USERNAME_LOGIN</name>
+    </customLabels>
+    <customLabels>
+        <label>Votre tentative de connexion a échoué. Vérifiez que le nom d&apos;utilisateur est correct.</label>
+        <name>USER_DO_NOT_EXIST</name>
+    </customLabels>
+    <customLabels>
+        <label>Cet utilisateur ne s&apos;est pas encore connecté</label>
+        <name>USER_NOT_CO</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- VALIDITY_PERIOD --></label>
+        <name>VALIDITY_PERIOD</name>
+    </customLabels>
+    <customLabels>
+        <label>Vérifiez votre nouveau mot de passe</label>
+        <name>VERIFY_NEW_PASSWORD</name>
+    </customLabels>
+    <customLabels>
+        <label>Afficher le fichier</label>
+        <name>VIEW_FILE</name>
+    </customLabels>
+    <customLabels>
+        <label>Les commentaires ne doivent comporter aucune information discriminatoire ou médicale</label>
+        <name>WARNING_DESCRIPTION</name>
+    </customLabels>
+    <customLabels>
+        <label>Vous devez renseigner l&apos;email et le numéro de téléphone mobile de l&apos;adhérent pour pouvoir signer le bulletin d&apos;adhésion electroniquement.</label>
+        <name>WARNING_MSG_FILL_APPLICANT_EMAIL_AND_PHONE</name>
+    </customLabels>
+    <customLabels>
+        <label>Attention</label>
+        <name>WARNING_TITLE</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- WORKER_PORTAL_ROLE --></label>
+        <name>WORKER_PORTAL_ROLE</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- api_Loan_Application_lkid --></label>
+        <name>api_Loan_Application_lkid</name>
+    </customLabels>
+    <customLabels>
+        <label>Cher(e) {!Contact.FirstName},
+
+Merci d&apos;avoir contacté l&apos;assistance. Vous pourrez trouver votre nouveau mot de passe ci-dessous.
+
+Merci
+
+{!User_Name}
+{!Organization.Name} Customer Support</label>
+        <name>newPassword</name>
+    </customLabels>
+    <customLabels>
+        <label>Félicitation,
+
+Vous êtes à présent un membre de notre système. Vous trouverez ci-dessous des informations importantes à propos de votre compte</label>
+        <name>newUser</name>
+    </customLabels>
+    <customLabels>
+        <label>Bienvenue sur Web Creditor</label>
+        <name>newUserHeader</name>
+    </customLabels>
+</Translations>

@@ -1,0 +1,7 @@
+config.js
+tmp/*
+files/*
+node_modules/*
+output/*
+*.log
+.c9revisions/*
