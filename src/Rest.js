@@ -123,7 +123,7 @@ r.define(["node-salesforce", "./config.js", "winston", "Function/curry"],
         //modificationInterval.setMinutes((modificationInterval.getMinutes() - config.interval)%60);
         
         
-        config.requestsFiles.mapAsync(function(value, index, cb2){
+        ["SELECT Body,Name,LastModifiedById from apexclass","SELECT Body,Name,LastModifiedById from apextrigger", "SELECT Markup,Name,LastModifiedById from apexpage"].mapAsync(function(value, index, cb2){
             //console.log("bf Query");
             this.executeQuery(value, function(err, result){
                 //console.log("cb exec Query", result.records.length);

@@ -10,6 +10,8 @@ function(config, winston, cf, Metaforce, Zip){
     var MetaFetch = function(){
         this.client = new Metaforce();
         
+        this.files = [];
+        
         this.types = [{ 
                 members: '*', 
                 name: 'CustomLabel'

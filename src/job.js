@@ -24,7 +24,7 @@ function(Git, Rest, fs, config, objMapAsync, winston){
             byAuthor[file.author].push(filename);
             
             
-            fs.writeFile(config.repo + '/' +filename, body, function(err){
+            fs.writeFile('../'+config.repo + '/' +filename, body, function(err){
                 if(err) return cb(err);
                 cb(null, filename);
             });
