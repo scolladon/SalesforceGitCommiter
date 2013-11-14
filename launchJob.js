@@ -12,6 +12,6 @@ function(job, winston){
     winston.info("start index.js.");
     job(function(err) { 
         if(err) return winston.error(err,err); 
-        return winston.info("end index.js")
+        return winston.info("end launchJob.js")
     });
 });

@@ -2,7 +2,6 @@
 var r = require("requirejs");
 
 r.config({
-    baseUrl: '~/632671',
     nodeRequire: require
 });
 
