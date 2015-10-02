@@ -5,13 +5,10 @@ r.config({
 });
 
 r(["lib/job.js", "winston"], 
-function(job, winston){
-    
-    winston.add(winston.transports.File, { filename: 'cron.log', handleExceptions: true });
+function(job){
 
-    winston.info("start index.js.");
     job(function(err) { 
-        if(err) return winston.error(err,err); 
-        return winston.info("end launchJob.js");
+        if(err) return console.error(err,err); 
+        return console.log("end launchJob.js");
     });
 });
